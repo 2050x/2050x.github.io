@@ -1,4 +1,8 @@
-# Toscana
+---
+layout: page
+title: Toscana
+permalink: /toscana/
+---
 
 ## Contatti
 ### Referente Regionale
