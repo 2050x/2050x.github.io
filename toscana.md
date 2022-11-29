@@ -11,9 +11,10 @@ permalink: /toscana/
 ### Referenti Provinciali
 
 ### Parlamentari
-- Andrea Quartini
-- Riccardo Ricciardi
-- Ettore Licheri
+- Andrea Quartini (deputato)
+- Riccardo Ricciardi (deputato)
+- Ettore Licheri (senatore)
+- Fabio Massimo Castaldo (europarlamentare)
 
 ### Consiglieri Regionali
 - Irene Galletti
