@@ -3,12 +3,12 @@ title: Movimento 5 Stelle
 description: sito open source con tutti i contatti base per il Movimento 5 Stelle 2050
 show_excerpts: false # set to true to show excerpts on the homepage
 
-header_pages:
-  - toscana.md
+#header_pages:
+#  - toscana.md
   
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/m5s2050/m5s2050.github.io" }
+    - { platform: github,  user_url: "https://github.com/movimento5s/" }
 
 plugins:
  - jekyll-feed
