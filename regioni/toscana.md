@@ -7,10 +7,10 @@ nav_order: 10
 
 ## Contatti
 ### Referente Regionale
-- Irene Galletti
+- Irene Galletti (email)
 
 ### Referenti Provinciali
-- Mister o Mistress X (Firenze)
+- Firenze: Mister o Mistress X (email)
 - 
 
 ### Parlamentari
