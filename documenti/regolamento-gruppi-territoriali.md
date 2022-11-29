@@ -51,10 +51,11 @@ e. persegue la partecipazione di un sempre maggior numero di cittadini
 I Gruppi territoriali non sono autorizzati ad assumere obbligazioni in nome e per conto del MoVimento 5 Stelle, restando a loro carico tutte le responsabilità (quali, a titolo esemplificativo, le responsabilità penali, civili, contabili, previdenziali, etc.) derivanti da eventuali attività da essi svolte.
 
 ## 3. Requisiti
-Per proporre o aderire ad un Gruppo territoriale, occorre possedere i seguenti requisiti: 1. essere iscritti e possedere tutti i requisiti previsti per l’iscrizione, ai sensi dell’art. 5 lett.
+Per proporre o aderire ad un Gruppo territoriale, occorre possedere i seguenti requisiti:
 
-a) dello Statuto dell’Associazione, al MoVimento 5 Stelle;
-1. essere residenti o comunque domiciliati nel territorio di riferimento del Gruppo; 3. non appartenere contemporaneamente ad un altro Gruppo.
+1. essere iscritti e possedere tutti i requisiti previsti per l’iscrizione, ai sensi dell’art. 5 lett. a) dello Statuto dell’Associazione, al MoVimento 5 Stelle
+2. essere residenti o comunque domiciliati nel territorio di riferimento del Gruppo
+3. non appartenere contemporaneamente ad un altro Gruppo
 
 ## 4. Costituzione
 La costituzione di un Gruppo territoriale può essere proposta da un numero minimo di 30 (trenta) Iscritti al MoVimento 5 Stelle, autorizzati dal Comitato per i rapporti territoriali, di concerto con il Presidente, sentiti i competenti Coordinatori territoriali, ove designati. Una volta costituito un Gruppo territoriale, ad esso possono successivamente aderire altri Iscritti.
