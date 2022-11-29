@@ -15,7 +15,7 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "by attivisti M5S++ | partecipa!"
+footer_content: sito opensource creato da attivisti M5S++ | [partecipa!](https://github.com/m5sx)
 
 kramdown:
   toc_levels: 1..2
