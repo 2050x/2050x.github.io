@@ -9,6 +9,8 @@ permalink: /toscana/
 - Irene Galletti
 
 ### Referenti Provinciali
+- Mister o Mistress X (Firenze)
+- 
 
 ### Parlamentari
 - Andrea Quartini (deputato)
