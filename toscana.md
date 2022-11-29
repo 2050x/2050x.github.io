@@ -13,7 +13,7 @@ permalink: /toscana/
 - 
 
 ### Parlamentari
-- Andrea Quartini (deputato)
+- [Andrea Quartini](https://www.facebook.com/andreaquartiniM5S) (deputato)
 - Riccardo Ricciardi (deputato)
 - Ettore Licheri (senatore)
 - Fabio Massimo Castaldo (europarlamentare)
@@ -29,8 +29,11 @@ permalink: /toscana/
 #### Livorno
 - Stella Sorgente
 
+## Gruppi Territoriali
+google map?
+
 ## Newsletter e Canali
-- Newsletter toscana
+- Newsletter informativa Toscana
 - Canale Telegram Firenze
 
 ## Calendario
