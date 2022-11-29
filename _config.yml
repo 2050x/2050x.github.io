@@ -3,8 +3,12 @@ description: sito open source con tutti i contatti base per il Movimento 5 Stell
 remote_theme: just-the-docs/just-the-docs
 
 color_scheme: "light"
+logo: "/assets/img/logo.png"
 search_enabled: false
 
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/m5sx/m5sx.github.io"
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
@@ -15,7 +19,7 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: sito opensource creato da attivisti M5S++ | [partecipa!](https://github.com/m5sx)
+footer_content: sito opensource creato da attivisti M5S++ | partecipa!
 
 kramdown:
   toc_levels: 1..2
