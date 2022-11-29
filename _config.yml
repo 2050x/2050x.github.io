@@ -9,3 +9,7 @@ header_pages:
 minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/m5s2050/m5s2050.github.io" }
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
