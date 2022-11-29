@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Toscana
-permalink: /toscana/
+has_children: false
+parent: Regioni
+nav_order: 10
 ---
 
 ## Contatti

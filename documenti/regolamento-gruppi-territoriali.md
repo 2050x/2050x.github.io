@@ -1,8 +1,8 @@
 ---
 title: Regolamento dei Gruppi Territoriali
 has_children: false
-parent: documenti
-nav_order: 1
+parent: Documenti
+nav_order: 10
 ---
 # Regolamento dei Gruppi Territoriali
 
