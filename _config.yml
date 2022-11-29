@@ -1,4 +1,4 @@
-title: "Movimento 5 Stelle X"
+title: "M5Sˣ"
 description: sito open source con tutti i contatti base per il Movimento 5 Stelle 2050
 remote_theme: just-the-docs/just-the-docs
 
@@ -15,7 +15,7 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "by Video Games Without Borders"
+footer_content: "by attivisti M5S++ | partecipa!"
 
 kramdown:
   toc_levels: 1..2
