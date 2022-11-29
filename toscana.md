@@ -24,6 +24,8 @@ permalink: /toscana/
 #### Firenze
 - Roberto De Blasi
 - Lorenzo Masi
+#### Livorno
+- Stella Sorgente
 
 ## Newsletter e Canali
 - Newsletter toscana
