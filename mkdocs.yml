@@ -38,11 +38,13 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+markdown_extensions:
+  - admonition
+
 # Plugins
 #plugins:
 #  - minify:
 #      minify_html: true
-
 
 repo_url: https://github.com/m5sx/m5sx.github.io
 edit_uri: edit/main/docs/
