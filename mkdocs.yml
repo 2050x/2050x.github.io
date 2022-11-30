@@ -48,6 +48,8 @@ markdown_extensions:
 
 # Plugins
 plugins:
+  - search:
+      lang: it
   - social:
       cards: !ENV [CARDS, false]
 #  - minify:
