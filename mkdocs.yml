@@ -50,10 +50,9 @@ markdown_extensions:
 plugins:
   - search:
       lang: it
-  - social:
-      cards: !ENV [CARDS, false]
-#  - minify:
-#      minify_html: true
+  - social
+  - minify:
+      minify_html: true
 
 repo_url: https://github.com/m5sx/m5sx.github.io
 edit_uri: edit/main/docs/
