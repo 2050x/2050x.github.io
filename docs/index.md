@@ -12,7 +12,7 @@ Troverai tre sezioni principali:
 
 [Documenti](documenti/index.md)
 
-[Informazioni Regionali](regioni/index.md)
+[Informazioni Territoriali](territori/index.md)
 
 [Manuale dell'attivista](manuale-attivista/index.md)
 

@@ -1,4 +1,4 @@
-site_name: M5Sx - il Movimento 5 Stelle dagli Attivisti
+site_name: M5Sx - il Movimento 5 Stelle X Attivisti
 site_url: https://m5sx.github.io
 site_author: Stefano Cecere & M5S++
 site_description: pagine informative sul Movimento 5 Stelle create da Attivisti interessati a miglorare il mondo.
@@ -21,6 +21,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
+    - navigation.sections
   font:
     text: Roboto
     code: Roboto Mono
@@ -41,9 +42,14 @@ theme:
 
 markdown_extensions:
   - admonition
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
 
 # Plugins
-#plugins:
+plugins:
+  - social:
+      cards: !ENV [CARDS, false]
 #  - minify:
 #      minify_html: true
 

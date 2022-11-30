@@ -1,4 +1,4 @@
-# Informazioni regionali
+# Informazioni territoriali
 
 Qui troverete informazioni di contatto del M5S in Italia.  
 Seleziona nel menù a lato la tua regione.

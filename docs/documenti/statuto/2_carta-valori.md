@@ -1,11 +1,8 @@
 ---
-title: Carta dei Principi e dei Valori
-has_children: false
-parent: Documenti
-nav_order: 5
+title: 2. Carta dei Principi e dei Valori
 ---
 
-# Carta dei Principi e dei Valori
+# Art 2. Carta dei Principi e dei Valori
 
 La seguente Carta dei Principi e dei Valori costituisce parte integrante dello Statuto; la sua revisione richiede il voto favorevole della maggioranza assoluta degli Iscritti in due successive deliberazioni ad intervallo non minore di 1 (un) mese.
 
@@ -68,3 +65,19 @@ I bisogni dei cittadini possono essere efficacemente e legittimamente soddisfatt
 
 ## o. CURA DELLE PAROLE
 La cura delle parole, l’attenzione per il linguaggio adoperato sono importanti anche al fine di migliorare i legami di integrazione e di rafforzare la coesione sociale. Le espressioni verbali aggressive devono essere considerate al pari di comportamenti violenti. La facilità di comunicare consentita dalle tecnologie digitali e alcune dinamiche innescate dal sistema dell’informazione non devono indurre a dichiarazioni irriflesse o alla superficialità di pensiero. Il dialogo profondo, il confronto rispettoso delle opinioni altrui contribuiscono ad arricchire la propria esperienza personale e l’esperienza culturale delle comunità di rispettiva appartenenza.
+
+## Finalità
+a) L’Associazione garantisce il più ampio spazio di confronto democratico e le più
+intense modalità di scambio di idee, di opinioni e di valutazioni tra i propri Iscritti. L’Associazione si propone, inoltre, di mantenere un dialogo costante con la società civile e con gruppi, associazioni, organismi variamente rappresentativi, anche non iscritti all’Associazione stessa, in modo da sollecitare l’elaborazione e la raccolta di idee, progetti, suggerimenti, utili ad arricchire le proprie iniziative politiche, sociali e culturali e a migliorare la società e le condizioni di vita dei cittadini.
+
+b) L’Associazione riconosce a tutti gli Iscritti, in conformità con le disposizioni della Carta dei Principi e dei Valori, del presente Statuto, dei Regolamenti e del Codice Etico ed in specie attraverso lo strumento della Rete, un effettivo ruolo di indirizzo e determinazione delle scelte fondamentali per l’attività politica dell’Associazione.
+
+c) L’Associazione intende raccogliere l’esperienza maturata nell’ambito del blog www.beppegrillo.it, dei “meetup”, delle manifestazioni ed altre iniziative popolari, delle “Liste Civiche Certificate” e comunque delle liste presentate sotto il simbolo “MoVimento 5 Stelle” nelle elezioni comunali e regionali, nonché dei gruppi parlamentari costituiti presso la Camera dei Deputati, il Senato della Repubblica ed il Parlamento Europeo in seguito, rispettivamente, alle passate elezioni politiche ed europee ed alle esperienze di governo nazionale e locali.
+
+d) Il MoVimento 5 Stelle promuove, attraverso idonee piattaforme internet o altre modalità, eventualmente anche non telematiche, il coinvolgimento dei propri Iscritti nel processo di individuazione di quanti provvederanno a diffondere e a realizzare le idee, i progetti e le campagne di sensibilizzazione sociale, culturale e politica dell’Associazione.
+
+e) Il MoVimento 5 Stelle svolge la propria attività politica nel rispetto del principio di trasparenza e partecipazione.
+
+f) Fermo quanto previsto dalla successiva lettera g), gli Iscritti possono inviare agli Organi del MoVimento 5 Stelle richieste di informazioni.
+
+g) L’attività del MoVimento 5 Stelle è improntata al rispetto delle disposizioni di legge a tutela della riservatezza, della protezione dei dati personali e della vita privata degli Iscritti.
