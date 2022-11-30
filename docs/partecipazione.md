@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Come partecipare?
 
 Come entrare in contatto con il Movimento 5 Stelle?

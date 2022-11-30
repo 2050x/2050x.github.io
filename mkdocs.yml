@@ -12,12 +12,14 @@ copyright: Open Source website by <a href="/about">M5S++</a>
 
 theme:
   name: material
+  language: it
   logo: assets/logo.png
   favicon: assets/favicon.png
   icon:
     repo: fontawesome/brands/github
   features:
-    - navigation.tabs  
+    - navigation.tabs
+    - navigation.top
   font:
     text: Roboto
     code: Roboto Mono
