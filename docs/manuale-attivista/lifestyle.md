@@ -1,11 +1,4 @@
----
-title: lifestyle
-date: 2021-04-02
-lastmod: 2022-11-07
-type: book
-tags: [2042]
-weight: 1
----
+# Stile di vita
 
 ## Imparare a meditare
 10 minuti al giorno

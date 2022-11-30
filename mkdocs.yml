@@ -1,9 +1,9 @@
 site_name: M5Sx
 site_url: https://m5sx.github.io
-site_author: Stefano Cecere & team M5S++
+site_author: Stefano Cecere & M5S++
 site_description: Movimento 5 Stelle creato dagli Attivisti
 
-copyright: Open Source website by Stefano Cecere & M5S++ team
+copyright: Open Source website by <a href="/about">M5S++</a>
 
 #nav:
 #  - Manuale:

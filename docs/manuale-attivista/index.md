@@ -9,7 +9,8 @@ Gli argomenti che tratteremo sono sopratutto su come migliorare l'efficacia dele
 1. siamo attivisti volontari, quindi mossi da un'ideale
 2. ci interessa la crescita della nostra influenza nel mondo
 
-Necessariamente dobbiamo parlare di 
+Necessariamente dobbiamo parlare di
+
 - comunicazione
 - coinvolgimento
 - persuasione
