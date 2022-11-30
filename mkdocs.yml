@@ -1,6 +1,14 @@
 site_name: M5Sx
+site_url: https://m5sx.github.io
+site_author: Stefano Cecere & team M5S++
 site_description: Movimento 5 Stelle creato dagli Attivisti
+
 copyright: Open Source website by Stefano Cecere & M5S++ team
+
+#nav:
+#  - Manuale:
+#    - 'Writing your docs': 'manuale-attivista/coinvolgimento.md'
+#    - 'Styling your docs': 'manuale-attivista/comunicazione.md'
 
 theme:
   name: material
@@ -10,6 +18,9 @@ theme:
     repo: fontawesome/brands/github
   features:
     - navigation.tabs  
+  font:
+    text: Roboto
+    code: Roboto Mono
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -25,8 +36,17 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+# Plugins
+#plugins:
+#  - minify:
+#      minify_html: true
+
+
 repo_url: https://github.com/m5sx/m5sx.github.io
 edit_uri: edit/main/docs/
+
+extra_css:
+  - stylesheets/extra.css
 
 extra:
   consent:

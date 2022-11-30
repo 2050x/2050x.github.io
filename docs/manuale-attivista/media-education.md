@@ -1,5 +1,4 @@
 # Media Education
-#lesson
 
 ## Media attivi e passivi
 la televisione, un giornale, un libro, la musica ascoltata, sono media passivi: possiamo solo esserne spettatori

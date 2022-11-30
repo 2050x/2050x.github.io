@@ -11,7 +11,6 @@ nav_order: 10
 
 ### Referenti Provinciali
 - Firenze: Mister o Mistress X (email)
-- 
 
 ### Parlamentari
 - [Andrea Quartini](https://www.facebook.com/andreaquartiniM5S) (deputato)

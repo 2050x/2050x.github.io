@@ -1,8 +1,6 @@
 ---
 title: Regolamento dei Gruppi Territoriali
-has_children: false
-parent: Documenti
-nav_order: 10
+date: 2022-03-22
 ---
 # Regolamento dei Gruppi Territoriali
 
@@ -42,11 +40,11 @@ I gruppi territoriali si confrontano costantemente con i portavoce del MoVimento
 
 Ciascun Gruppo, in ragione dei suoi fini istitutivi, attende, mediante i suoi organi, alle seguenti attività:
 
-a. favorisce la discussione, il confronto e lo scambio di idee politiche tra tutti gli Iscritti al Gruppo;
-b. sviluppa iniziative e progetti, eventualmente anche finanziati dall’Associazione;
-c. può inoltrare proposte progettuali e iniziative legislative al Comitato nazionale progetti
-d. promuove la diffusione dei programmi e delle attività del MoVimento 5 Stelle;
-e. persegue la partecipazione di un sempre maggior numero di cittadini
+1. favorisce la discussione, il confronto e lo scambio di idee politiche tra tutti gli Iscritti al Gruppo
+2. sviluppa iniziative e progetti, eventualmente anche finanziati dall’Associazione
+3. può inoltrare proposte progettuali e iniziative legislative al Comitato nazionale progetti
+4. promuove la diffusione dei programmi e delle attività del MoVimento 5 Stelle
+5. persegue la partecipazione di un sempre maggior numero di cittadini
 
 I Gruppi territoriali non sono autorizzati ad assumere obbligazioni in nome e per conto del MoVimento 5 Stelle, restando a loro carico tutte le responsabilità (quali, a titolo esemplificativo, le responsabilità penali, civili, contabili, previdenziali, etc.) derivanti da eventuali attività da essi svolte.
 
@@ -89,6 +87,7 @@ La durata di ciascun Gruppo territoriale è fissata nel provvedimento di autoriz
 L’eventuale termine di scadenza del Gruppo territoriale fissata nella delibera di costituzione può essere prorogato dal Comitato per la prossimità territoriale, di concerto con il Presidente, sentito il competente coordinatore territoriale, ove designato.
 
 Sono Organi dei Gruppi territoriali:
+
 - L’Assemblea
 - Il Rappresentante
 - Il/i Vice-rappresentante/i
@@ -105,10 +104,12 @@ Stelle nel periodo di sospensione dall’Associazione (anche in via solo cautela
 Seppur non iscritti al Gruppo è sempre autorizzata la presenza in Assemblea, senza diritto di voto: al Presidente e/o suo delegato, al Coordinatore territoriale/delegato (comunale, provinciale, regionale o estero); ai rappresentanti del MoVimento 5 Stelle eletti sul territorio; ai componenti ed al coordinatore del Comitato per i rapporti territoriali
 
 Spetta all’Assemblea:
-1. eleggere il Rappresentante;
-2. deliberare sulle proposte poste all’ordine del giorno;
-3. deliberare sui progetti e sulle iniziative da presentare al Comitato nazionale progetti; 4. approvare la nomina dei Referenti.
-4. 
+
+1. eleggere il Rappresentante
+2. deliberare sulle proposte poste all’ordine del giorno
+3. deliberare sui progetti e sulle iniziative da presentare al Comitato nazionale progetti
+4. approvare la nomina dei Referenti.
+
 La prima riunione dell’Assemblea dev’essere convocata entro 15 (quindici) giorni dalla costituzione del Gruppo territoriale dal coordinatore territoriale / delegato (comunale, provinciale, regionale o estero) e comunicata al Coordinatore del Comitato per i rapporti territoriali e ai rappresentanti eletti in quel territorio, almeno 72 (settantadue) ore prima della riunione, tramite posta elettronica ordinaria, presso l’indirizzo che ciascun Iscritto al Gruppo fornisce all’atto di iscrizione, con un preavviso di almeno 72 (settantadue) ore.
 
 Nella prima riunione è posta all’ordine del giorno l’elezione del Rappresentante che presiede il consesso.
@@ -127,9 +128,9 @@ L’avviso di convocazione individua il luogo, la data e l’ora della riunione 
 
 La partecipazione alle riunioni è ammessa con modalità telematica, attraverso strumenti telematici idonei a consentire la comunicazione in tempo reale a due vie e, quindi, il collegamento simultaneo fra tutti i partecipanti. Le strumentazioni e gli accorgimenti adottati devono comunque assicurare la corretta identificazione dei partecipanti e la massima riservatezza possibile delle comunicazioni. La modalità telematica di partecipazione alle riunioni deve inoltre consentire a tutti i partecipanti la possibilità immediata di:
 
-a. visionare gli atti della riunione
-b. intervenire in tempo reale nella discussione
-c. scambiare documenti
+1. visionare gli atti della riunione
+2. intervenire in tempo reale nella discussione
+3. scambiare documenti
 
 L’Assemblea delibera a maggioranza dei voti espressi, allorquando siano presenti almeno la maggioranza assoluta degli Iscritti al Gruppo.
 
@@ -174,6 +175,7 @@ Qualora la carica di Rappresentante si renda vacante, il Vice-rappresentante vic
 
 ### 8.2 Decadenza dalla carica di Rappresentante
 Il Rappresentante può essere revocato con delibera motivata del Comitato per i rapporti territoriali, di concerto con il Presidente o suo delegato, su istanza di taluno dei seguenti soggetti:
+
 - Il coordinatore territoriale/delegato competente territorialmente;
 - 1/3 (un terzo) degli Iscritti al Gruppo territoriale.
 
