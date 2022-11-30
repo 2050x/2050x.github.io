@@ -19,6 +19,7 @@ Ai sensi dell’art. 6 dello Statuto del MoVimento 5 Stelle
 
 ## 1. Oggetto del presente Regolamento
 Il presente Regolamento definisce i “Gruppi territoriali” di cui all’art. 6 dello Statuto del MoVimento 5 Stelle e ne disciplina:
+
 - I requisiti per l’iscrizione/adesione
 - Le modalità operative per l’autorizzazione alla costituzione
 - Le modalità per l’adesione
@@ -61,6 +62,7 @@ La costituzione di un Gruppo territoriale può essere proposta da un numero mini
 Per proporre la costituzione di un Gruppo Territoriale, occorre accedere all’area “Gruppi territoriali” del portale come utente registrato, e seguire le istruzioni ivi contenute.
 
 L’iscritto potrà proporre la costituzione di un Gruppo territoriale, indicandone l’ambito territoriale di riferimento o aderire ad una proposta di costituzione di un Gruppo territoriale già esistente, o richiedere l’iscrizione ad un Gruppo territoriale già costituito.
+
 Nel proprio profilo personale l’iscritto troverà l’indicazione del Gruppo territoriale a cui ha aderito e potrà decidere di annullare la propria adesione in qualunque momento.
 
 Una volta raggiunto il numero minimo di adesioni previsto per la costituzione del Gruppo territoriale, la proposta di costituzione del Gruppo è trasmessa al Comitato per i rapporti territoriali, che si riserva di svolgere adeguata istruttoria ai fini dell’eventuale autorizzazione.
