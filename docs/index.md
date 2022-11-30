@@ -5,6 +5,8 @@ Questo piccolo sito è stato creato da alcuni attivisti per migliorare l'accessi
 
 Troverai tre sezioni principali:
 
+[Come partecipare?](partecipazione.md)
+
 [Documenti](documenti/index.md)
 
 [Informazioni Regionali](regioni/index.md)
