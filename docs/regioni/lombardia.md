@@ -7,8 +7,10 @@ nav_order: 6
 
 [sito web](https://www.lombardia5stelle.it)
 
-## Contatti
-### Referente Regionale
+## Gruppi Territoriali
+
+### Coordinatori Regionali
+- Dario Violi | [email](mailto:)
 
 ### Portavoce Regionali
 - Andrea Fiasconaro (presidente) [pagina](https://www.lombardia5stelle.it/2020/02/24/andrea-fiasconaro/) | [email](mailto:andrea.fiasconaro@consiglio.regione.lombardia.it) | [FB](https://www.facebook.com/AFiasconaro/)

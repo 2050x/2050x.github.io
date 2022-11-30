@@ -8,7 +8,7 @@ nav_order: 10
 ## Gruppi Territoriali
 google map?
 
-### Referenti Regionali
+### Coordinatori Regionali
 - Irene Galletti | [email]()
 
 ### Referenti Provinciali

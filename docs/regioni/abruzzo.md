@@ -1,8 +1,9 @@
+## Gruppi Territoriali
 
-## Referente Regionale
-Gianluca Castaldi (Coordinatore)
+### Coordinatori Regionali
+- Gianluca Castaldi | [email](mailto:)
 
-## Consiglio Regionale
+### Consiglio Regionale
 - Giorgio Fedele
 - Domenico Pettinari
 - Pietro Smargiassi

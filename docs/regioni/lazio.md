@@ -1,9 +1,4 @@
----
-title: Lazio
-has_children: false
-parent: Regioni
-nav_order: 5
----
+## Gruppi Territoriali
 
-## Contatti
-### Referente Regionale
+### Coordinatori Regionali
+- Valentina Corrado | [email](mailto:)

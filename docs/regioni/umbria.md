@@ -1,14 +1,9 @@
----
-title: Umbria
-has_children: false
-parent: Regioni
-nav_order: 5
----
+## Gruppi Territoriali
+
+### Coordinatori Regionali
+- Thomas De Luca | [email](mailto:)
+
+### Consiglieri Comunali
+Spoleto - Samuele Bonanni
 
 [FB](https://www.facebook.com/m5sumbria/)
-
-## Contatti
-### Referente Regionale
-Tomas De Luca
-
-Spoleto - Samuele Bonanni
