@@ -2,12 +2,13 @@
 hide:
   - navigation
 ---
-# About
+# Informazioni
 
-## Su questo sito
+## M5Sx: su questo sito
 Tutto il sito è stato pensato e sviluppato per essere duraturo nel tempo, semplice da gestire, gratuito e riproducibile. E' creato con soluzioni open-source.
+Il nome ce lo hanno ispirato i TEDx, la versione delle famose conferenze innovatrici auto-organizzate dai cittadini. Non vogliamo sostituirci al M5S _ufficile_, ma pensiamo che possiamo dare un contributo.
 
-## M5S++
+## M5S++: il team
 Siamo un gruppo di attivisti, un po' nerd, un po' appassionati, un po' pro-attiviti, che condividono:
 
 1. un sincero interesse a far crescere il M5S in **qualità** e **struttura**
@@ -25,7 +26,7 @@ I temi che interessano sono sopratutto:
 - **tecnologia** e giochi
 - **discussioni** costruttive
 
-Il gruppo di lavoro è coordinato e supervisionato da Stefano Cecere ed è aperto a tutti, previa auto-presentazione e dimostrazione di sincero interesse.
+Il gruppo di lavoro è coordinato e supervisionato da [Stefano Cecere](https://github.com/StefanoCecere) ed è aperto a tutti, previa auto-presentazione e dimostrazione di sincero interesse.
 
 ## Contatto
 Se vuoi entrare in contatto [scrivi una email](mailto:stefano.cecere@gmail.com) o [apri una issue](https://github.com/m5sx/m5sx.github.io/issues). Poi ci si trova nel nostro gruppo Telegram.

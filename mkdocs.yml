@@ -1,7 +1,7 @@
-site_name: M5Sx
+site_name: M5Sx - il Movimento 5 Stelle dagli Attivisti
 site_url: https://m5sx.github.io
 site_author: Stefano Cecere & M5S++
-site_description: Movimento 5 Stelle creato dagli Attivisti
+site_description: pagine informative sul Movimento 5 Stelle create da Attivisti interessati a miglorare il mondo.
 
 copyright: Open Source website by <a href="/about">M5S++</a>
 
@@ -17,6 +17,7 @@ theme:
   favicon: assets/favicon.png
   icon:
     repo: fontawesome/brands/github
+    edit: material/file-edit-outline
   features:
     - navigation.tabs
     - navigation.top
@@ -54,9 +55,7 @@ extra_css:
 
 extra:
   consent:
-    title: Cookie consent
+    title: Accettazione Cookie
     description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
+      Sebbene questo sito non rilasci cookies nel tuo browser, potrebbero esserci da qualche parte dei dati rccolti su quante volte frequesti. With your consent, you're helping us to
       make our documentation better.
