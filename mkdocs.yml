@@ -45,6 +45,7 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+  - attr_list
 
 # Plugins
 plugins:

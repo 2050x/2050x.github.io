@@ -1,4 +1,6 @@
-## Gruppi Territoriali
+## Regione
+- Sito [www.movimento5stelleabruzzo.it](https://www.movimento5stelleabruzzo.it)
+- Facebook [www.facebook.com/Movimento5StelleAbruzzo](https://www.facebook.com/Movimento5StelleAbruzzo)
 
 ### Coordinatori Regionali
 - Gianluca Castaldi | [email](mailto:)
@@ -10,4 +12,5 @@
 - Barbara Stella
 - Francesco Taglieri (Attuale Capogruppo)
 
-<https://www.movimento5stelleabruzzo.it>
+## Gruppi Territoriali
+

@@ -1,13 +1,7 @@
----
-title: Lombardia
-has_children: false
-parent: Regioni
-nav_order: 6
----
-
-[sito web](https://www.lombardia5stelle.it)
-
-## Gruppi Territoriali
+## Regione
+- Sito [www.lombardia5stelle.it](https://www.lombardia5stelle.it)
+- Facebook [www.facebook.com/Movimento5stellelombardia](https://www.facebook.com/Movimento5stellelombardia/)
+- email [info@lombardia5stelle.it](mailto:info@lombardia5stelle.it)
 
 ### Coordinatori Regionali
 - Dario Violi | [email](mailto:)
@@ -24,3 +18,4 @@ nav_order: 6
 - Raffaele Erba [email](mailto:raffaele.erba@consiglio.regione.lombardia.it) | [FB](https://www.facebook.com/RaffaeleErbaLombardiaM5S/)
 - Simone Verni
 
+## Gruppi Territoriali

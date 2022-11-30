@@ -1,4 +1,6 @@
-## Gruppi Territoriali
+## Regione
 
 ### Coordinatori Regionali
 - Ettore Licheri | [email](mailto:)
+
+## Gruppi Territoriali
