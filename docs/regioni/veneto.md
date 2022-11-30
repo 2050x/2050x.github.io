@@ -15,10 +15,10 @@ Enrico Cappelletti, _senato_ | [FB](https://www.facebook.com/cappelletti.m5s)
 ### Consiglio Regionale
 Erika Baldin | [FB](https://www.facebook.com/ErikaBaldinM5S)
 
-## Comunali
+### Comunali
 
 ## Rimani informato
-Canale Telegram Veneto M5S https://t.me/M5S_Veneto
-Canale Telegram Treviso attivisti https://t.me/m5strevisonews
-Blog Attivisti Treviso www.movimento5stelletreviso.it
+- Canale Telegram Veneto M5S: <https://t.me/M5S_Veneto>
+- Canale Telegram Treviso attivisti: <https://t.me/m5strevisonews>
+- Blog Attivisti Treviso: <https://www.movimento5stelletreviso.it>
 
