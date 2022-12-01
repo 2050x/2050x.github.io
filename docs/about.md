@@ -4,7 +4,7 @@ hide:
 ---
 # Informazioni
 
-## M5S^x^: su questo sito
+## M5S^x^: su questo sito 
 Tutto il sito è stato pensato e sviluppato per essere duraturo nel tempo, semplice da gestire, gratuito e riproducibile. E' creato con soluzioni open-source.
 Il nome ce lo hanno ispirato i TEDx, la versione delle famose conferenze innovatrici auto-organizzate dai cittadini. Non vogliamo sostituirci al M5S _ufficiale_, ma pensiamo che possiamo dare un contributo.
 
