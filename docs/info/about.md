@@ -4,7 +4,7 @@ hide:
 ---
 # Informazioni
 
-## M5S^x^ o M5S^xyz^ 
+## 2050^x^ 
 Il nome ce lo hanno ispirato la Space-X e i TED^x^, la versione delle famose conferenze innovatrici auto-organizzate dai cittadini, le coordinate XYZ dello Spazio euclideo, e il cubo-dado che è un simbolo di gioco e di casualità.  
 
 ## M5S++: il team
