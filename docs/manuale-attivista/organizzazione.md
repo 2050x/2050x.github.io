@@ -1,4 +1,6 @@
-# Organizzione
+# Organizzazione
+Sapersi organizzare la vita non è facile.  
+Organizzarla insieme ad altri ancora meno.  
 
 ## Gruppo di persone
 

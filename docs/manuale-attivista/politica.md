@@ -1,4 +1,4 @@
-# La Politica
+# Politica
 
 ## Costituzione
 
