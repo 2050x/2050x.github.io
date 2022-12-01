@@ -9,5 +9,11 @@ https://m5sx.github.io
 - `mkdocs build` - Build the documentation site.
 - `mkdocs -h` - Print help message and exit.
 
+upgrade:  
+`pip3 install --upgrade mkdocs-material`
+
+check veresion:  
+`pip3 show mkdocs-material`
+
 ## Copyright
 This site and all its contents are Copyright by Stefano Cecere and M5S++ and licensed under [CC BY NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)

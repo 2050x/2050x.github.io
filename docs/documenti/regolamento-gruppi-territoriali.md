@@ -1,6 +1,7 @@
 ---
 title: Regolamento dei Gruppi Territoriali
 date: 2022-03-22
+ᴴₒᴴₒᴴₒ: true
 ---
 # Regolamento dei Gruppi Territoriali
 
