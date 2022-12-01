@@ -46,6 +46,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - attr_list
+  - def_list
 
 # Plugins
 plugins:
@@ -56,7 +57,7 @@ plugins:
   - minify:
       minify_html: true
 
-repo_url: https://github.com/m5sx/m5sx.github.io
+repo_url: https://github.com/2050x/2050x.github.io
 edit_uri: edit/main/docs/
 
 extra_css:
