@@ -9,6 +9,9 @@ https://m5sx.github.io
 - `mkdocs build` - Build the documentation site.
 - `mkdocs -h` - Print help message and exit.
 
+Install
+pip3 install mkdocs-material mkdocs-minify-plugin pillow cairosvg mkdocs-table-reader-plugin mkdocs-macros-plugin
+
 upgrade:  
 `pip3 install --upgrade mkdocs-material`
 
