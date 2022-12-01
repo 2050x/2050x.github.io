@@ -63,7 +63,7 @@ extra_css:
 extra:
   analytics:
     provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
+    property: G-6CTL17N8TN
   consent:
     title: Accettazione Cookie
     description: >- 
