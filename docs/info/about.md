@@ -1,13 +1,11 @@
 ---
 hide:
-  - navigation
+#  - navigation
 ---
 # Informazioni
 
-## Su questo sito 
-Tutto il sito è stato pensato e sviluppato per essere duraturo nel tempo, semplice da gestire, gratuito e riproducibile. E' creato con soluzioni open-source.
-Il nome ce lo hanno ispirato i TEDx, la versione delle famose conferenze innovatrici auto-organizzate dai cittadini, le coordinate XYZ dello Spazio euclideo, e il cubo-dado che è un simbolo di gioco e di casualità.  
-Non vogliamo minimamente sostituirci al M5S _ufficiale_, ma pensiamo che possiamo dare un contributo, perché se vedi qualcosa che manca, adoperati per costruirla senzaa aspettare che altri la facciano per te.
+## M5S^x^ o M5S^xyz^ 
+Il nome ce lo hanno ispirato la Space-X e i TED^x^, la versione delle famose conferenze innovatrici auto-organizzate dai cittadini, le coordinate XYZ dello Spazio euclideo, e il cubo-dado che è un simbolo di gioco e di casualità.  
 
 ## M5S++: il team
 Siamo un gruppo di attivisti, un po' nerd, un po' appassionati, un po' pro-attiviti, che condividono:
@@ -29,12 +27,10 @@ I temi che interessano sono sopratutto:
 
 Il gruppo di lavoro è coordinato e supervisionato da [Stefano Cecere](https://github.com/StefanoCecere) ed è aperto a tutti, previa auto-presentazione e dimostrazione di sincero interesse.
 
-## Contatto
-Se vuoi entrare in contatto [scrivi una email](mailto:stefano.cecere@gmail.com) o [apri una issue](https://github.com/m5sx/m5sx.github.io/issues). Poi ci si trova nel nostro gruppo Telegram.
-
 ## Tecnologia
+Tutto il sito è stato pensato e sviluppato per essere duraturo nel tempo, semplice da gestire, gratuito e riproducibile. E' creato con soluzioni open-source.
 Tutti i contenuti sono scritti in [markdown](https://www.markdownguide.org/).  
-Il sito è generato con [MkDocs e Material](https://squidfunk.github.io/mkdocs-material/) automaticamente e ospitato sulle pagine di [GitHub](https://github.com/m5sx/m5sx.github.io).
+Il sito è generato automaticamente con [MkDocs e Material](https://squidfunk.github.io/mkdocs-material/) e ospitato sulle pagine di [GitHub](https://github.com/m5sx/m5sx.github.io).
 
 E' una tecnologia molto semplice quanto accessibile. Tutti i contenuti sono solo semplici file di testo (non complessi html, pdf, file Word, Google Docs), che oggi ci sono e domani chissà. Possono essere scaricati sul proprio computer e facilmente convertiti in tutti i formati del mondo (anche in ePub, ad esempio).
 
