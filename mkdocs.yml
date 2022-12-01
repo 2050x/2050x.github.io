@@ -60,7 +60,7 @@ repo_url: https://github.com/m5sx/m5sx.github.io
 edit_uri: edit/main/docs/
 
 extra_css:
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
 
 extra:
   analytics:
