@@ -26,16 +26,15 @@ theme:
     text: Roboto
     code: Roboto Mono
   palette:
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: default
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - scheme: slate
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -62,8 +61,10 @@ extra_css:
   - stylesheets/extra.css
 
 extra:
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
   consent:
     title: Accettazione Cookie
     description: >- 
-      Sebbene questo sito non rilasci cookies nel tuo browser, potrebbero esserci da qualche parte dei dati rccolti su quante volte frequesti. With your consent, you're helping us to
-      make our documentation better.
+      Questo sito usa alcuni cookies per garantire la migliore esperienza di navigazione. Niente di speciale.
