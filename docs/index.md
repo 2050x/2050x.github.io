@@ -28,3 +28,10 @@ Chi siamo e come funziona questo sito?
 - :fontawesome-solid-envelope-open-text: **[Newsletter / :fontawesome-brands-telegram: Telegram](info/contatto.md)**  
 Seguici via Telegram o Newsletter
 </div>
+
+## Ultimi aggiornamenti
+**3 dicembre 2022**
+Primo rilascio pubblico di questo sito, con il Regolamento dei Gruppi Territoriali, parte dello Statuto, e una definizione di massima della struttura dei contenuti che andremo a elaborare nelle prossime settimane. [Seguiteci ricevere aggiornamenti!](info/contatto.md)
+
+**29 novembre 2022**
+Posato il primo mattoncino di questo sito, scegliendo gli strumenti da usare per costruirlo e convertendo il pdf dei regolamenti territoriali in formato testo.
