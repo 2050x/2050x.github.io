@@ -29,6 +29,22 @@ I temi che interessano sono sopratutto:
 
 Il gruppo di lavoro è coordinato e supervisionato da [Stefano Cecere](https://github.com/StefanoCecere) ed è aperto a tutti, previa auto-presentazione e dimostrazione di sincero interesse.
 
+## Contribuire a questo sito
+Se vuoi migliorare una pagina di questo sito, proporre nuovi contenuti, fare una correzzione, benvenuti! 
+
+Questo sito è proprio stato realizzato in modalita aperta e collaborativa (grazie al potere di Git).
+
+Praticamente è costituito da semplici file di testo, editabili da computer oppure direttamente online. Quando si fa una modifica viene generata automaticamente una richiesta di verifica inviata ai supervisori, e se accettata viene cambiato il file e da lì automaticamente rigenerata la pagina web.
+
+Molto semplice, quasi magico, vero?
+
+La vedi quella icona in alto a destra di questa pagina, con la matitina?
+Cliccala, ed entrerai in modalità editor.
+
+Un po' pià complesso di WikiPedia, ma meglio.
+
+Se prima vuoi che ci parliamo, [contattaci](contatto.md)
+
 ## Tecnologia
 Tutto il sito è stato pensato e sviluppato per essere duraturo nel tempo, semplice da gestire, gratuito e riproducibile. E' creato con soluzioni open-source.
 Tutti i contenuti sono scritti in [markdown](https://www.markdownguide.org/).  
@@ -36,22 +52,8 @@ Il sito è generato automaticamente con [MkDocs e Material](https://squidfunk.gi
 
 E' una tecnologia molto semplice quanto accessibile. Tutti i contenuti sono solo semplici file di testo (non complessi html, pdf, file Word, Google Docs), che oggi ci sono e domani chissà. Possono essere scaricati sul proprio computer e facilmente convertiti in tutti i formati del mondo (anche in ePub, ad esempio).
 
-E' il formato privilegiato per chi ha a cuore la condivisione, l'accessibilità e la portabilità dei contenuti, più che la loro proprietà.
+Non ci sono database o linguaggi di programmazione. Solo dei files di testo semplice convertiti in html. Puoi addirittura scaricare tutto il sito con un click ad avere tutto sul tuo computer, per sempre.
 
-## Licenza
-Tutti i contenuti di questo sito tranne il Manuale dell'Attivista sono di pubblico dominio e quindi liberi da licenza.  
-Il Manuale dell'Attivista è invece © Stefano Cecere, 2022 e rilasciato sotto licenza [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0)
+Ovviamente abbiamo scelto così perché abbiamo a cuore la condivisione, l'accessibilità e la portabilità dei contenuti.
 
-**Cosa significa?**
-Che puoi liberamente copiare o distribuire, anche modificare, basta che citi esplicitamente l'autore otiginale Stefano Cecere e questo sito e che non ne fai usi commerciali, altrimenti devi chiedere il permesso.
-
-In pratica **puoi:**
-
-- **Condividere**: riprodurre, distribuire, esporre in pubblico, questo materiale con qualsiasi mezzo e formato
-- **Modificare**: remixare, trasformare il materiale e basarti su di esso per le tue opere 
-
-**a queste condizioni**:
-
-- **Attribuzione**: Devi riconoscere una menzione di paternità adeguata, fornire un link alla licenza (questa pagina ad esempio) e indicare se sono state effettuate delle modifiche. Puoi fare ciò in qualsiasi maniera ragionevole possibile, ma non con modalità tali da suggerire che il licenziante avalli te o il tuo utilizzo del materiale.
-- **Non Commerciale**: Non puoi utilizzare il materiale per scopi commerciali.
-- **Stessa Licenza**: Se remixi, trasformi il materiale o ti basi su di esso, devi distribuire i tuoi contributi con questa stessa licenza CC. 
+Se tutto questo ti piace, sarai il benvenuto nel team [M5S++](contatto.md)
