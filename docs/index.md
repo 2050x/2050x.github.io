@@ -25,5 +25,6 @@ dove siamo? tutti i riferimenti regione per regione
 per le idee, le risorse, i grandi e i piccoli temi
 - :fontawesome-solid-circle-info: **[Informazioni](info/about.md)**  
 Chi siamo e come funziona questo sito?
+- :fontawesome-solid-envelope-open-text: **[Newsletter / :fontawesome-brands-telegram: Telegram](info/contatto.md)**  
+Seguici via Telegram o Newsletter
 </div>
-

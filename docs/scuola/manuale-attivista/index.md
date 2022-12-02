@@ -8,7 +8,7 @@ Abbiamo pensato di scrivere questo **Manuale dell'Attivista 2050** per sintetizz
 
 Non è ovviamente un manuale esaustivo, è anzi in continua evoluzione.
 
-Gli argomenti che tratteremo sono sopratutto su come migliorare l'efficacia delel proprie azioni, personali e di gruppo, partendo da due presupposti:
+Gli argomenti che tratteremo sono sopratutto su come migliorare l'efficacia delle proprie azioni, personali e di gruppo, partendo da due presupposti:
 
 1. siamo attivisti volontari, quindi mossi da un'ideale
 2. ci interessa la crescita della nostra influenza nel mondo

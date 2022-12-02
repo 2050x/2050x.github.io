@@ -1,5 +1,5 @@
 
-Innanzitutto distinguamo 4 livelli di partecipazione:
+Innanzitutto distinguiamo 4 livelli di partecipazione:
 
 1. elettore semplice
 2. elettore interessato / simpatizzate

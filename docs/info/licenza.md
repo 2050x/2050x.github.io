@@ -4,7 +4,7 @@ Tutti i contenuti di questo sito tranne il Manuale dell'Attivista sono di pubbli
 Il Manuale dell'Attivista è invece © Stefano Cecere, 2022 e rilasciato sotto licenza [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 **Cosa significa?**
-Che puoi liberamente copiare o distribuire, anche modificare, basta che citi esplicitamente l'autore otiginale Stefano Cecere e questo sito e che non ne fai usi commerciali, altrimenti devi chiedere il permesso.
+Che puoi liberamente copiare o distribuire, anche modificare, basta che citi esplicitamente l'autore originale e questo sito e che non ne fai usi commerciali, altrimenti devi chiedere il permesso.
 
 In pratica **puoi:**
 

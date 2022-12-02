@@ -2,7 +2,7 @@
 Comuni a Cinque Stelle  
 8 Marzo 2009
 
-I Comuni decidono della vita quotidiana di ognuno di noi. Possono avvelenarci con un inceneritore o avviare la raccolta differenziata. Fare parchi per i bambini o porti per gli speculatori. Costruire parcheggi o asili. Privatizzare l’acqua o mantenerla sotto il loro controllo. Dai Comuni a Cinque Stelle si deve ripartire a fare politica con le liste civiche per Acqua, Ambiente, Trasporti, Sviluppo e Energia.
+I Comuni decidono della vita quotidiana di ognuno di noi. Possono avvelenarci con un inceneritore o avviare la raccolta differenziata. Fare parchi per i bambini o porti per gli speculatori. Costruire parcheggi o asili. Privatizzare l'acqua o mantenerla sotto il loro controllo. Dai Comuni a Cinque Stelle si deve ripartire a fare politica con le liste civiche per Acqua, Ambiente, Trasporti, Sviluppo e Energia.
 
 1. Acqua pubblica
 2. Impianti di depurazione obbligatori per ogni abitazione non collegabile a un impianto fognario, contributi/ finanziamenti comunali per impianti di depurazione privati

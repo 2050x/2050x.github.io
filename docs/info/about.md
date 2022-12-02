@@ -30,18 +30,18 @@ I temi che interessano sono sopratutto:
 Il gruppo di lavoro è coordinato e supervisionato da [Stefano Cecere](https://github.com/StefanoCecere) ed è aperto a tutti, previa auto-presentazione e dimostrazione di sincero interesse.
 
 ## Contribuire a questo sito
-Se vuoi migliorare una pagina di questo sito, proporre nuovi contenuti, fare una correzzione, benvenuti! 
+Se vuoi migliorare una pagina di questo sito, proporre nuovi contenuti, fare una correzione, benvenuti! 
 
-Questo sito è proprio stato realizzato in modalita aperta e collaborativa (grazie al potere di Git).
+Questo sito è proprio stato realizzato in modalità aperta e collaborativa (grazie al potere di Git).
 
 Praticamente è costituito da semplici file di testo, editabili da computer oppure direttamente online. Quando si fa una modifica viene generata automaticamente una richiesta di verifica inviata ai supervisori, e se accettata viene cambiato il file e da lì automaticamente rigenerata la pagina web.
 
 Molto semplice, quasi magico, vero?
 
-La vedi quella icona in alto a destra di questa pagina, con la matitina?
+La vedi quella icona in alto a destra di questa pagina, con la matita?
 Cliccala, ed entrerai in modalità editor.
 
-Un po' pià complesso di WikiPedia, ma meglio.
+Un po' più complesso di WikiPedia, ma meglio.
 
 Se prima vuoi che ci parliamo, [contattaci](contatto.md)
 
