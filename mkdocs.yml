@@ -52,7 +52,10 @@ markdown_extensions:
 plugins:
   - search:
       lang: it
-  - social
+  - social:
+      cards_color:
+        fill: "#14608E" 
+        text: "#FFFFFF"
   - table-reader
   - minify:
       minify_html: true
