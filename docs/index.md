@@ -5,14 +5,25 @@ hide:
   - toc
 ᴴₒᴴₒᴴₒ: true
 ---
-# Dagli Attivisti per gli Attivisti
+# In MoVimento verso il 2050
 
-Questo piccolo spazio è un contributo di **attivisti volontari** alla Cittadinanza Attiva del [Movimento 5 Stelle](https://www.movimento5stelle.eu/), facilitando l'**avvicinamento**, l'**accesso** e il **coinvolgimento** di chi vorrebbe fare qualcosa con gusto e soddisfazione per _migliorare il mondo_.
+Questo sito è un contributo di **attivisti volontari** alla Cittadinanza Attiva e all'**Intelligenza Collettiva**, per facilitare l'**avvicinamento**, l'**accesso** e il **coinvolgimento** di chi vorrebbe fare qualcosa con gusto e soddisfazione per _migliorare il mondo_.
 
-E' un sito opensource e in costante sviluppo collaborativo, se ti interessa [leggi qui](info/about.md) altrimenti salta subito alle sezioni principali:
+<div class="grid cards" markdown>
 
-- [Come fare?](partecipazione.md) - un'introduzione generale
-- [Documenti](documenti/index.md) - il regolamento dei gruppi territoriali, lo Statuto e alcuni dati
-- [Spazio](spazio/index.md) - uno spazio per il virtuale, i giochi formativi, e tutto quello che ci passa per la testa
-- [Scuola e Manuale Attivista](scuola/manuale-attivista/index.md) - un piccolo vademecum con informazioni e guide
-- [Territori](territori/index.md) - dove siamo? chi siamo?
+- :fontawesome-regular-circle-play: **[Che fare?](partecipazione.md)**  
+un'introduzione generale
+- :fontawesome-solid-book: **[Regolamento dei Gruppi Territoriali](movimento5stelle/regolamento-gruppi-territoriali.md)**    
+versione leggibile online
+- :fontawesome-solid-graduation-cap: **[Scuola e Manuale Attivista](scuola/manuale-attivista/index.md)**  
+per diventare attivisti livello pro :wink:
+- :star::star::star::star::star: **[Documenti del M5S](movimento5stelle/index.md)**  
+la Storia, lo Statuto e alcuni dati
+- :fontawesome-solid-earth-europe: **[Territori](territori/index.md)**  
+dove siamo? tutti i riferimenti regione per regione
+- :fontawesome-solid-brain: **[Spazio](spazio/index.md)**  
+per le idee, le risorse, i grandi e i piccoli temi
+- :fontawesome-solid-circle-info: **[Informazioni](info/about.md)**  
+Chi siamo e come funziona questo sito?
+</div>
+
