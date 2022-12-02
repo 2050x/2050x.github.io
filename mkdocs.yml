@@ -74,6 +74,13 @@ extra:
   analytics:
     provider: google
     property: G-6CTL17N8TN
+  social:
+    - icon: fontawesome/brands/telegram 
+      link: https://t.me/org2050x
+    - icon: fontawesome/brands/facebook 
+      link: https://www.facebook.com/groups/2050x
+    - icon: fontawesome/brands/github 
+      link: https://github.com/2050x
   consent:
     title: Accettazione Cookie
     description: >- 
