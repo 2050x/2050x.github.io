@@ -12,6 +12,7 @@ copyright: <a href="/about">Sito Open Source e Creative Commons creato dal team 
 
 theme:
   name: material
+  custom_dir: overrides
   language: it
   logo: assets/logo.png
   favicon: assets/favicon.png
@@ -22,6 +23,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.sections
+    - announce.dismiss
   font:
     text: Roboto
     code: Roboto Mono
