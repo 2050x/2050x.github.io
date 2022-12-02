@@ -4,8 +4,10 @@ hide:
 ---
 # Informazioni
 
-## 2050^x^ 
-Il nome ce lo hanno ispirato la Space-X e i TED^x^, la versione delle famose conferenze innovatrici auto-organizzate dai cittadini, le coordinate XYZ dello Spazio euclideo, e il cubo-dado che è un simbolo di gioco e di casualità.  
+## 2050^x^
+Il 2050 è la data limite oltre la quale dobbiamo cambiare la direzione del mondo:
+crisi climatica, singolarità tecnologica, fallimento del neo-liberismo economico (con divergenza ricchissimi/poverissimi), tensioni geo-politiche, crisi esistenziali.  
+Il nome ce lo hanno ispirato la _Space X_ e i _TED^x^_, la versione delle famose conferenze innovatrici auto-organizzate dai cittadini. E poi fa molto **futuro** e molto **nerd** ;)
 
 ## M5S++: il team
 Siamo un gruppo di attivisti, un po' nerd, un po' appassionati, un po' pro-attiviti, che condividono:
