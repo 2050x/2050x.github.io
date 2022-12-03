@@ -13,7 +13,7 @@ Questo sito è un contributo di **attivisti volontari** alla Cittadinanza Attiva
 
 - :fontawesome-regular-circle-play: **[Che fare?](partecipazione.md)**  
 un'introduzione generale
-- :fontawesome-solid-book: **[Regolamento dei Gruppi Territoriali](m5s/regolamento-gruppi-territoriali.md)**    
+- :fontawesome-solid-book: **[Regolamento dei Gruppi Territoriali](m5s/documenti/regolamento-gruppi-territoriali.md)**    
 versione leggibile online
 - :fontawesome-solid-graduation-cap: **[Scuola e Manuale Attivista](scuola/manuale-attivista/index.md)**  
 per diventare attivisti livello pro :wink:

@@ -13,7 +13,7 @@ title: La storia del M5S
 Dall'incontro di Casaleggio e Grillo, nel 2005 viene aperto il blog **[beppegrillo.it](https://beppegrillo.it)**, che diventerà uno dei siti più visitati in Italia, e intorno ad esso nascono i gruppi territoriali de gli _Amici di Beppe Grillo_.
 
 ## 2009 - 2013
-Si formeranno le prime liste per le elezioni comunali nel 2009 con documento fondante la [Carta di Firenze](archivio/carta-di-firenze.md).
+Si formeranno le prime liste per le elezioni comunali nel 2009 con documento fondante la [Carta di Firenze](documenti/carta-di-firenze.md).
 
 Il Movimento 5 Stelle nasce ufficialmente il 4 ottobre 2009 (giornata di San Francesco, NB) 
 
