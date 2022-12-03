@@ -3,12 +3,7 @@ site_url: https://2050x.org
 site_author: Stefano Cecere & M5S++
 site_description: uno spazio opensource degli attivisti per gli attivisti del M5S con informazioni, risorse e giochi formativi.
 
-copyright: <a href="/info/about">Sito Open Source e Creative Commons creato dal team M5S++.</a> 
-
-#nav:
-#  - Manuale:
-#    - 'Writing your docs': 'manuale-attivista/coinvolgimento.md'
-#    - 'Styling your docs': 'manuale-attivista/comunicazione.md'
+copyright: sito <a href="/info/about">Open Source</a> - <a href="/info/licenza">licenza Creative Commons</a> - <a href="/info/contatto">newsletter</a>
 
 theme:
   name: material
