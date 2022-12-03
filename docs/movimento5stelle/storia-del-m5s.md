@@ -22,7 +22,7 @@ Le cinque stelle rappresentavano:
 5. sviluppo
 
 ## 2018 - oggi
-
+Giuseppe Conte era stato scelto per far parte della squadra dei Ministri presentata da Di Maio _prima_ delle elezioni.
 
 
 ---
