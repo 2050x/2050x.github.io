@@ -7,7 +7,7 @@ hide:
 ---
 # In MoVimento verso il 2050
 
-Questo sito è un contributo di **attivisti volontari** alla Cittadinanza Attiva e all'**Intelligenza Collettiva**, per facilitare l'**avvicinamento**, l'**accesso** e il **coinvolgimento** di chi vorrebbe fare qualcosa con gusto e soddisfazione per _migliorare il mondo_.
+Questo sito è un contributo di **attivisti volontari** alla Cittadinanza Attiva e all'**Intelligenza Collettiva**, per facilitare l'**avvicinamento**, l'**accesso** e il **coinvolgimento** di chi vorrebbe fare qualcosa con gusto e soddisfazione per _migliorare il mondo_ (prima che sia troppo tardi :scream: )
 
 <div class="grid cards" markdown>
 
@@ -24,14 +24,14 @@ dove siamo? tutti i riferimenti regione per regione
 - :fontawesome-solid-brain: **[Spazio](spazio/index.md)**  
 per le idee, le risorse, i grandi e i piccoli temi
 - :fontawesome-solid-circle-info: **[Informazioni](info/about.md)**  
-Chi siamo e come funziona questo sito?
+Chi siamo? Come funziona questo sito? **Vuoi partecipare?**
 - :fontawesome-solid-envelope-open-text: **[Newsletter / :fontawesome-brands-telegram: Telegram](info/contatto.md)**  
 Seguici via Telegram o Newsletter
 </div>
 
 ## Ultimi aggiornamenti
 **3 dicembre 2022**
-Primo rilascio pubblico di questo sito, con il Regolamento dei Gruppi Territoriali, parte dello Statuto, e una definizione di massima della struttura dei contenuti che andremo a elaborare nelle prossime settimane. [Seguiteci ricevere aggiornamenti!](info/contatto.md)
+:loudspeaker: Primo rilascio pubblico di questo sito, con il Regolamento dei Gruppi Territoriali, parte dello Statuto, e una definizione di massima della struttura dei contenuti che andremo a elaborare nelle prossime settimane. [Seguiteci per ricevere aggiornamenti o partecipare](info/contatto.md)
 
 **29 novembre 2022**
 Posato il primo mattoncino di questo sito, scegliendo gli strumenti da usare per costruirlo e convertendo il pdf dei regolamenti territoriali in formato testo.
