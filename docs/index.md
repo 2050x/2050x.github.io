@@ -15,6 +15,8 @@ Questo sito è un contributo di **attivisti volontari** alla Cittadinanza Attiva
 un'introduzione generale
 - :fontawesome-solid-book: **[Regolamento dei Gruppi Territoriali](m5s/documenti/regolamento-gruppi-territoriali.md)**    
 versione leggibile online
+- :fontawesome-solid-book: **[Manifesto della Parsimonia 2050](spazio/idee/manifesto-parsimonia.md)**    
+versione leggibile online
 - :fontawesome-solid-graduation-cap: **[Scuola e Manuale Attivista](scuola/index.md)**  
 per diventare attivisti livello pro :wink:
 - :star::star::star::star::star: **[Documenti del M5S](m5s/index.md)**  
