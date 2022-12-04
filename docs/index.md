@@ -5,9 +5,9 @@ hide:
   - toc
 ᴴₒᴴₒᴴₒ: true
 ---
-# In MoVimento verso il 2050
+# Spazio alla formazione
 
-Questo sito è un contributo di **attivisti volontari** alla Cittadinanza Attiva e all'**Intelligenza Collettiva**, per facilitare l'**avvicinamento**, l'**accesso** e il **coinvolgimento** di chi vorrebbe fare qualcosa con gusto e soddisfazione per _migliorare il mondo_ (prima che sia troppo tardi :scream: )
+Questo sito è un contributo di **attivisti volontari** alla Cittadinanza Attiva e all'**Intelligenza Collettiva** facilitando l'**accesso**, il **coinvolgimento** e la **formazione** di chi vorrebbe attivarsi e _migliorarsi per migliorare il mondo_ (prima che sia troppo tardi :scream: )
 
 <div class="grid cards" markdown>
 
@@ -15,7 +15,7 @@ Questo sito è un contributo di **attivisti volontari** alla Cittadinanza Attiva
 un'introduzione generale
 - :fontawesome-solid-book: **[Regolamento dei Gruppi Territoriali](m5s/documenti/regolamento-gruppi-territoriali.md)**    
 versione leggibile online
-- :fontawesome-solid-graduation-cap: **[Scuola e Manuale Attivista](scuola/manuale-attivista/index.md)**  
+- :fontawesome-solid-graduation-cap: **[Scuola e Manuale Attivista](scuola/index.md)**  
 per diventare attivisti livello pro :wink:
 - :star::star::star::star::star: **[Documenti del M5S](m5s/index.md)**  
 la Storia, lo Statuto e alcuni dati
