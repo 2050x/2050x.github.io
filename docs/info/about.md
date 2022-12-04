@@ -29,6 +29,8 @@ I temi che interessano sono sopratutto:
 
 Il gruppo di lavoro è coordinato e supervisionato da [Stefano Cecere](https://github.com/StefanoCecere) ed è aperto a tutti, previa auto-presentazione e dimostrazione di sincero interesse.
 
+---
+
 ## Contribuire a questo sito
 Se vuoi migliorare una pagina di questo sito, proporre nuovi contenuti, fare una correzione, benvenuti! 
 
@@ -45,6 +47,8 @@ Un po' più complesso di WikiPedia, ma meglio.
 
 Se prima vuoi che ci parliamo, [contattaci](contatto.md)
 
+---
+ 
 ## Tecnologia
 Tutto il sito è stato pensato e sviluppato per essere duraturo nel tempo, semplice da gestire, gratuito e riproducibile. E' creato con soluzioni open-source.
 Tutti i contenuti sono scritti in [markdown](https://www.markdownguide.org/).  

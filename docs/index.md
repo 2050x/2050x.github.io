@@ -29,6 +29,8 @@ Chi siamo? Come funziona questo sito? **Vuoi partecipare?**
 Seguici via Telegram o Newsletter
 </div>
 
+---
+
 ## Ultimi aggiornamenti
 **3 dicembre 2022**
 :loudspeaker: Primo rilascio pubblico di questo sito, con il Regolamento dei Gruppi Territoriali, parte dello Statuto, e una definizione di massima della struttura dei contenuti che andremo a elaborare nelle prossime settimane. [Seguiteci per ricevere aggiornamenti o partecipare](info/contatto.md)

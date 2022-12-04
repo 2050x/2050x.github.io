@@ -1,3 +1,9 @@
+hr {
+    height: 6px;
+    background-color: rgb(255, 234, 0) ;
+    border-radius: 5px;
+}
+
 .md-typeset .grid {
     grid-gap: .4rem;
     display: grid;
@@ -19,12 +25,6 @@
     margin-top: 0;
 }
 
-[data-md-color-scheme="2050x"] {
-    --md-primary-fg-color:        #14608E;
-    --md-primary-fg-color--light: #ECB7B7;
-    --md-primary-fg-color--dark:  #90030C;
-  }
-
 [data-md-color-scheme="default"] {
     --md-primary-fg-color:        #14608E;
 }
@@ -32,12 +32,22 @@
     --md-primary-fg-color:        #14608E;
 }
 
-h1 {
+[data-md-color-scheme="default"] .md-typeset h1 {
     font-weight: 600 !important;
-    color: #14608E!important;
+    color: #14608E !important;
 }
 
-h2 {
+[data-md-color-scheme="slate"] .md-typeset h1 {
+    font-weight: 600 !important;
+    color: #3c86b4 !important;
+}
+
+[data-md-color-scheme="default"] .md-typeset h2 {
+    font-weight: 00 !important;
+    color: #14608E !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h2 {
     font-weight: 400 !important;
-    color: #14608E!important;
+    color: #3c86b4 !important;
 }

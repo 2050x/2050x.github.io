@@ -8,6 +8,7 @@ Se vuoi entrare in contatto, ecco come farlo:
 
 </div><i class="fa-solid fa-envelope-open-text"></i>
 
+---
 ## Seguici
 Se invece vuoi giusto iniziare a seguire le nostre attività:
 
