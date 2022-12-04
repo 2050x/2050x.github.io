@@ -2,7 +2,6 @@
 title: Regolamento dei Gruppi Territoriali
 description: una versione leggibile online del documento originale del Movimento 5 Stelle
 date: 2022-03-22
-ᴴₒᴴₒᴴₒ: true
 ---
 # Regolamento dei Gruppi Territoriali
 
