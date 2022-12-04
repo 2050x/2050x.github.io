@@ -34,6 +34,3 @@ Seguici via Telegram o Newsletter
 ## Ultimi aggiornamenti
 **3 dicembre 2022**
 :loudspeaker: Primo rilascio pubblico di questo sito, con il Regolamento dei Gruppi Territoriali, parte dello Statuto, e una definizione di massima della struttura dei contenuti che andremo a elaborare nelle prossime settimane. [Seguiteci per ricevere aggiornamenti o partecipare](info/contatto.md)
-
-**29 novembre 2022**
-Posato il primo mattoncino di questo sito, scegliendo gli strumenti da usare per costruirlo e convertendo il pdf dei regolamenti territoriali in formato testo.

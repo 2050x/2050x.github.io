@@ -74,6 +74,8 @@ extra:
   social:
     - icon: fontawesome/brands/telegram 
       link: https://t.me/org2050x
+    - icon: fontawesome/brands/discord 
+      link: https://discord.gg/VUjgGtDgAh
     - icon: fontawesome/brands/facebook 
       link: https://www.facebook.com/groups/2050x
     - icon: fontawesome/brands/github 
