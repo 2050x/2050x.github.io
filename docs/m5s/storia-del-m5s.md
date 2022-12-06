@@ -3,11 +3,11 @@ title: La storia del M5S
 ---
 
 ## 1901 - 1960
-**Adriano Olivetti**. Lo citiamo perché lo riteniamo un personaggio importante per come abbia unito i temi dell'imprenditoria, della tecnologia, della politica e del benessere sociale distribuito. Ha sicuramente influenzato la formazione del M5S.
+[Adriano Olivetti](../spazio/personaggi/adriano-olivetti.md). Lo citiamo perché lo riteniamo un personaggio importante per come abbia unito i temi dell'imprenditoria, della tecnologia, della politica e del benessere sociale distribuito. Ha sicuramente influenzato la formazione del M5S.
 
 ## 199x - 2005
-**Beppe Grillo** inizia a fare spettacoli sempre più centrati sul tema dell'ecologia, dell'ambiente, dell'energia, della politica. Sono tanti gli spettatori che si interrogano perché non ci si organizzi politicamente intorno a quelle considerazioni.
-**Gianroberto Casaleggio** si interessa e lavora con le nuove tecnologie del web e del loro potenziale impatto sociale e politico.
+[Beppe Grillo](../spazio/personaggi/beppe-grillo.md) inizia a fare spettacoli sempre più centrati sul tema dell'ecologia, dell'ambiente, dell'energia, della politica. Sono tanti gli spettatori che si interrogano perché non ci si organizzi politicamente intorno a quelle considerazioni.
+[Gianroberto Casaleggio](../spazio/personaggi/casaleggio.md) si interessa e lavora con le nuove tecnologie del web e del loro potenziale impatto sociale e politico.
 
 ## 2005 - 2009
 Dall'incontro di Casaleggio e Grillo, nel 2005 viene aperto il blog **[beppegrillo.it](https://beppegrillo.it)**, che diventerà uno dei siti più visitati in Italia, e intorno ad esso nascono i gruppi territoriali de gli _Amici di Beppe Grillo_.
