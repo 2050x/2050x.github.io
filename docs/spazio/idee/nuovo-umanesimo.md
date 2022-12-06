@@ -1,5 +1,6 @@
 ---
 title: Nuovo Umanesimo
+description: Riportare la persona, l'essere umano, al centro delle attenzioni della politica, dell'economia, della società. Utopia o necessità?
 ---
 
 Ultimamente si sente sempre più parlare di Umanesimo / Nuovo Umanesimo, inteso come il riportare il cittadino, l'essere umano, la persona al centro delle attenzioni della politica, dell'economia, della società, come una delle più interessanti soluzioni alla crisi contemporanea.  

@@ -1,3 +1,8 @@
+---
+title: Manifesto della parsimonia per il 2050
+description: Raddoppiare il benessere dimezzando energia, materiali e lavoro. 
+---
+
 # Manifesto della parsimonia per il 2050
 _Raddoppiare il benessere dimezzando energia, materiali e lavoro_
 

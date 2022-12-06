@@ -1,3 +1,8 @@
+---
+title: Agenda 2030
+description: L'agenda dell'ONU con 17 obiettivi di sviluppo sostenibile condivisi da molte istituzioni e associazioni. 
+---
+
 # Agenda 2030 - 17 obiettivi dell'ONU
 
 I 17 obiettivi di sviluppo sostenibile **OSS** (Sustainable Development Goals SDGs) e i 169 sotto-obiettivi ad essi associati costituiscono il nucleo vitale dell’Agenda 2030. Tengono conto in maniera equilibrata delle tre dimensioni dello sviluppo sostenibile, ossia **economica**, **sociale** ed **ecologica**.
