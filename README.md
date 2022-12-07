@@ -1,4 +1,5 @@
-# Movimento 5 Stelle X
+# 2050x - Spazio Formazione Attivisti++
+
 sito open source con informazioni base
 https://2050x.org
 
