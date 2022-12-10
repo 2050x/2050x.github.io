@@ -8,9 +8,4 @@ hide:
 
 Qui troverete informazioni di contatto del M5S in Italia. Seleziona nel menù a lato la tua regione.
 
-:construction: i dati delle regioni sono in costruzione.. se vuoi contribuire [scrivici](../info/contatto.md)  
-:warning: i dati di questa mappa sono invece provvisori!
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1UjlTuRrwAHo8nBO4apCdXZSD7w3RDWA&ehbc=2E312F" width="100%" height="600"></iframe>
-
-[Apri questa mappa in una nuova finestra](https://www.google.com/maps/d/edit?mid=1UjlTuRrwAHo8nBO4apCdXZSD7w3RDWA&usp=sharing)
+:construction: i dati delle regioni sono in costruzione...
