@@ -62,6 +62,14 @@ plugins:
   - minify:
       minify_html: true
   - awesome-pages
+  - tags:
+      tags_file: info/tags.md
+  - git-revision-date-localized:
+      type: date
+      locale: it
+      enable_creation_date: false
+      exclude:
+        - index.md
 
 repo_url: https://github.com/2050x/2050x.org
 edit_uri: edit/main/docs/

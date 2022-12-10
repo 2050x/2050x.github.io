@@ -1,6 +1,8 @@
 ---
 title: Agenda 2030
-description: L'agenda dell'ONU con 17 obiettivi di sviluppo sostenibile condivisi da molte istituzioni e associazioni. 
+description: L'agenda dell'ONU con 17 obiettivi di sviluppo sostenibile condivisi da molte istituzioni e associazioni.
+tags:
+  - agenda
 ---
 
 # Agenda 2030 - 17 obiettivi dell'ONU
