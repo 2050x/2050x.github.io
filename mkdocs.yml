@@ -15,6 +15,7 @@ theme:
     repo: fontawesome/brands/github
     edit: material/file-edit-outline
   features:
+    - navigation.footer
     - navigation.tabs
     - navigation.top
     - navigation.sections
