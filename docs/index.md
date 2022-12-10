@@ -34,5 +34,8 @@ Seguici via Telegram o Newsletter
 ---
 
 ## Ultimi aggiornamenti
+**10 dicembre 2022**
+Molti documenti nella sezione Spazio (Manifesto della Parsimonia, la Dichiarazione universale Diritti Umani). Perfezionato il tema del sito, con un nuovo motore di ricerca molto potente e le date di modifica di ogni pagina. stay tuned! [Seguiteci per ricevere aggiornamenti o partecipare](info/contatto.md)
+
 **3 dicembre 2022**
-:loudspeaker: Primo rilascio pubblico di questo sito, con il Regolamento dei Gruppi Territoriali, parte dello Statuto, e una definizione di massima della struttura dei contenuti che andremo a elaborare nelle prossime settimane. [Seguiteci per ricevere aggiornamenti o partecipare](info/contatto.md)
+:loudspeaker: Primo rilascio pubblico di questo sito, con il Regolamento dei Gruppi Territoriali, parte dello Statuto, e una definizione di massima della struttura dei contenuti che andremo a elaborare nelle prossime settimane. 

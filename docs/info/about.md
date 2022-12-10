@@ -9,7 +9,7 @@ Il 2050 è la data limite oltre la quale dobbiamo cambiare la direzione del mond
 crisi climatica, singolarità tecnologica, fallimento del neo-liberismo economico (con divergenza ricchissimi/poverissimi), tensioni geo-politiche, crisi esistenziali.  
 Il nome ce lo hanno ispirato la _Space X_ e i _TED^x^_, la versione delle famose conferenze innovatrici auto-organizzate dai cittadini. E poi fa molto **futuro** e molto **nerd** ;)
 
-## M5S++: il team
+## Il team
 Siamo un gruppo di attivisti, un po' nerd, un po' appassionati, un po' pro-attiviti, che condividono:
 
 1. un sincero interesse a far crescere la cittadinanza attiva in **qualità** e **struttura**
@@ -27,7 +27,7 @@ I temi che interessano sono sopratutto:
 - **tecnologia** e giochi
 - **collaborazione** e discussione costruttiva
 
-Il progetto e il gruppo di lavoro è coordinato da [Stefano Cecere](https://github.com/StefanoCecere), attivista ventennale ed esperto di innovazione, tecnologia e formazione, ed è aperto a tutti previa auto-presentazione e dimostrazione di sincero interesse.
+Il progetto e il gruppo di lavoro è promosso e coordinato da [Stefano Cecere](https://github.com/StefanoCecere), attivista ventennale ed esperto di innovazione, tecnologia e formazione.
 
 ---
 

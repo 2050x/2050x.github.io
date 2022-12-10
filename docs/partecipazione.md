@@ -4,15 +4,13 @@ hide:
 ---
 # Che fare?
 
-- Come entrare in contatto con il Movimento 5 Stelle?
 - Cosa posso fare?
 - Vorrei dare una mano...
 - Con chi posso fare una chiacchierata?
 
 Sono domande che si pongono tutti.. ehmm... magari. Mettiamo però se le ponesse.
 
-
-## 1. Iscriversi al Movimento 5 Stelle
+## 1. Iscriversi al Movimento 5 Stelle
 L'iscrizione è gratuita e si effettua tutto online.
 Bisogna solo: 
 
