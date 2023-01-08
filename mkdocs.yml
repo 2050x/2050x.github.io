@@ -1,6 +1,6 @@
 site_name: 2050x Formazione Partecipazione Politica
 site_url: https://2050x.org
-site_author: Stefano Cecere & M5S++
+site_author: Stefano Cecere
 site_description: 2050x è uno spazio formativo di cittadini attivi che vogliono migliorarsi per migliorare il mondo, possibilmente entro il 2050
 
 copyright: <a href="/info/about">chi siamo a gestire questo bellissimo sito?</a> - <a href="/info/licenza">licenza Creative Commons</a> - <a href="/info/contatto">newsletter</a>
@@ -65,6 +65,7 @@ plugins:
   - tags:
       tags_file: info/tags.md
   - git-revision-date-localized:
+      enabled: !ENV [CI, false]
       type: date
       locale: it
       enable_creation_date: false
