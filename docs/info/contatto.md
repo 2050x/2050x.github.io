@@ -4,7 +4,6 @@ Se invece vuoi giusto iniziare a seguire le nostre attività:
 <div class="grid cards" markdown>
 
 - :fontawesome-brands-telegram: **[Canale Telegram](https://t.me/org2050x)**  
-- :fontawesome-solid-envelope-open-text: **[Newsletter](https://cecere.substack.com/)**  
 
 </div>
 

@@ -27,7 +27,7 @@ I temi che interessano sono sopratutto:
 - **tecnologia** e giochi
 - **collaborazione** e discussione costruttiva
 
-Il progetto e il gruppo di lavoro è promosso e coordinato da [Stefano Cecere](https://github.com/StefanoCecere), attivista ventennale ed esperto di innovazione, tecnologia e formazione.
+Il progetto e il gruppo di lavoro è sviluppato da [Stefano Cecere](https://github.com/StefanoCecere), attivista ventennale ed esperto di innovazione, tecnologia e formazione.
 
 ---
 
