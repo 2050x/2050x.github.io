@@ -7,7 +7,7 @@ hide:
 ---
 # Spazio alla formazione
 
-Questo sito è un contributo di **attivisti volontari** alla Cittadinanza Attiva e all'**Intelligenza Collettiva** facilitando l'**accesso**, il **coinvolgimento** e la **formazione** di chi vorrebbe attivarsi e _migliorarsi per migliorare il mondo_ (prima che sia troppo tardi :scream: )
+Questo sito è un contributo di **attivisti volontari** del Movimento 5 Stelle per sviluppare la Cittadinanza Attiva e all'**Intelligenza Collettiva** facilitando l'**accesso**, il **coinvolgimento** e la **formazione** di chi vorrebbe attivarsi e _migliorarsi per migliorare il mondo_ (prima che sia troppo tardi :scream: )
 
 <div class="grid cards" markdown>
 
@@ -34,6 +34,10 @@ Seguici via Telegram o Newsletter
 ---
 
 ## Ultimi aggiornamenti
+
+**marzo 2023**
+Stiamo aggiornando tutti i dati territoriali con i coordinatori provinciali e relativi canali di comunicazione
+
 **10 dicembre 2022**
 Molti documenti nella sezione Spazio (Manifesto della Parsimonia, la Dichiarazione universale Diritti Umani). Perfezionato il tema del sito, con un nuovo motore di ricerca molto potente e le date di modifica di ogni pagina. stay tuned! [Seguiteci per ricevere aggiornamenti o partecipare](info/contatto.md)
 
