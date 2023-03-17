@@ -61,7 +61,6 @@
 | --- | --- |
 |Coordinatore Provinciale|[Tommaso Pierazzi](https://www.facebook.com/100063457456761/)|
 | Canale Telegram| [m5s_arezzo](https://t.me/m5s_arezzo)|
-| Facebook | [www.facebook.com/M5SArezzo](https://www.facebook.com/M5SArezzo) |
 
 | **Città** |  |  **Portavoce** | |
 | --- | --- | --- | --- |
