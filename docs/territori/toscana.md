@@ -1,125 +1,198 @@
 ## Parlamentari
 
-
 | Elezioni 2022| | |
 | - | -| - |
 | Andrea Quartini|  _deputato_ | [contatti](https://linktr.ee/quartini)|
-| Riccardo Ricciardi|  _deputato_| |
-| Ettore Licheri|  _senatore_| |
-| Fabio Massimo Castaldo| _europarlamentare_| |
+| Riccardo Ricciardi|  _deputato_|  [Facebook](https://www.facebook.com/RiccardoRicciardiDeputato) |
+| Ettore Licheri|  _senatore_|  [Facebook](https://www.facebook.com/ettorelicheri) |
+| Fabio Massimo Castaldo| _europarlamentare_| [Facebook](https://www.facebook.com/FabioMassimoCastaldo) |
 
 ## Regione Toscana
 
-**Coordinamento Regionale**  
-Irene Galletti | [email]()
-
-**Consiglio Regionale**
-
-- Irene Galletti, _capogruppo_
-- Silvia Noferi
-
-**Comunicazione**
-
-| **Comunicazione** |  |
+| **Coordinamento Regionale** | |
 | --- | --- |
-|Canale Telegram| [m5s_toscana](https://t.me/m5s_toscana)|
-|Sito| [www.movimento5stelletoscana.it](https://www.movimento5stelletoscana.it/)|
-|Facebook| [www.facebook.com/Movimento5StelleToscana](https://www.facebook.com/Movimento5StelleToscana/)|
-|Email| [m5s.comunicazione@consiglio.regione.toscana.it](mailto:m5s.comunicazione@consiglio.regione.toscana.it)|
+| Coordinatore Regionale| Irene Galletti|
+| Canale Telegram| [m5s_toscana](https://t.me/m5s_toscana)|
+| Sito| [www.movimento5stelletoscana.it](https://www.movimento5stelletoscana.it/)|
+| Facebook| [www.facebook.com/Movimento5StelleToscana](https://www.facebook.com/Movimento5StelleToscana/)|
+| Email| [m5s.comunicazione@consiglio.regione.toscana.it](mailto:m5s.comunicazione@consiglio.regione.toscana.it)|
+
+| **Consiglio Regionale** | | | 
+| --- | --- | --- |
+| Irene Galletti | Consigliera Regionale _capogruppo_| [Facebook](https://www.facebook.com/IreneGallettiM5S) | 
+| Silvia Noferi | Consigliera Regionale| [Facebook](https://www.facebook.com/silvianoferi64) | 
 
 ## Provincia Firenze
 
-| Provincia | |
+| **Coordinamento** | |
 | --- | --- |
-| Coordinatore|[Andrea Quartini](https://linktr.ee/quartini)|
+|Coordinatore Provinciale|[Andrea Quartini](https://linktr.ee/quartini)|
 | Canale Telegram| [m5s_firenze](https://t.me/m5s_firenze)|
 | Newsletter| [m5sfirenze.substack.com](https://m5sfirenze.substack.com)|
 
-### Firenze
-
-**Consiglio Comunale**
-
-- Roberto De Blasi
-- Lorenzo Masi
-
-**Comunicazione**
-
-- [Facebook](https://www.facebook.com/gruppoconsiliareM5S)   
-- [Quartiere 4](https://www.facebook.com/groups/511798802268276/)
-
-### Calenzano
-
-[Pagina Facebook](https://www.facebook.com/movimentocinquestelle.calenzano)
-### Empolese Valdelsa
-[Pagina Facebook](https://www.facebook.com/m5sev)
-
-### Empoli
-[Pagina Facebook](https://www.facebook.com/empoli5stelle)
-
-### Mugello
-[Gruppo Facebook](https://www.facebook.com/groups/455094991671670)
-
-### Scandicci
-[Pagina Facebook](https://www.facebook.com/Mov5StelleScandicci) 
-
-### Sesto Fiorentino
-[Pagina Facebook](https://www.facebook.com/m5ssestofiorentino)
+| **Città** |  |  **Portavoce** | |
+| --- | --- | --- | --- |
+| Firenze | [Facebook](https://www.facebook.com/gruppoconsiliareM5S) | Roberto De Blasi | Consigliere Comunale |
+| | | Lorenzo Masi | Consigliere Comunale|
+| | | Luigi Benassai | Consigliere Q1 |
+| | | Lorenzo Porazzini | Consigliere Q2|
+| | | Valerio Cipolli | Consigliere Q3|
+| | | Angelo Spensierato | Consigliere Q4|
+| | [Facebook](https://www.facebook.com/groups/511798802268276/) |Daniele Bellucci | Consigliere Q4 |
+| | | Luca Rossi Romanelli | Consigliere Q5||
+| | | Iacopo Spennati | Consigliere Q5 |
+| Borgo San Lorenzo | | Marco Giovannini | Consigliere|
+| Calenzano | [Facebook](https://www.facebook.com/movimentocinquestelle.calenzano) | | |
+| Castelfiorentino | | Fabrizio Macchi | Consigliere|
+| Empoli | [Facebook](https://www.facebook.com/empoli5stelle) | Anna Baldi | Consigliera|
+| Empolese Valdelsa | [Facebook](https://www.facebook.com/m5sev) | | |
+| Figline e Incisa Valdarno | | Lorenzo Naimi | Consigliere|
+| Fucecchio | | Fabrizia Morelli | Consigliera|
+| Impruneta | | Flavia Maurri | Consigliera|
+| Mugello | [Facebook](https://www.facebook.com/groups/455094991671670) | | |
+| Pontassieve | | Simone Gori | Consigliere|
+| Scandicci | [Facebook](https://www.facebook.com/Mov5StelleScandicci) | | |
+| Sesto Fiorentino | [Facebook](https://www.facebook.com/m5ssestofiorentino) | | |
+| Vicchio | | Paolo Cioni|Consigliere|
     
 ## Provincia Arezzo
 
-Coordinatore Provinciale: Tommaso Pierazzi
+| **Coordinamento** | |
+| --- | --- |
+|Coordinatore Provinciale|[Tommaso Pierazzi](https://www.facebook.com/100063457456761/)|
+| Canale Telegram| [m5s_arezzo](https://t.me/m5s_arezzo)|
+| Facebook | [www.facebook.com/M5SArezzo](https://www.facebook.com/M5SArezzo) |
 
-[Facebook](https://www.facebook.com/M5SArezzo)
+| **Città** |  |  **Portavoce** | |
+| --- | --- | --- | --- |
+| Arezzo| | Michele Menchetti|Consigliere|
+| Castelfranco Pian di Sco | |Claudia Lucarini|Consigliera|
+| Cavriglia | |Massimiliano Secciani|Consigliere|
+| | | Mauro Calosci| Consigliere
+| San Giovanni Valdarno| | Tommaso Pierazzi|Consigliere|
 
 ## Provincia Grosseto
 
-Coordinatore Provinciale: Lorenzo Olivotto
+| **Coordinamento** | |
+| --- | --- |
+|Coordinatore Provinciale| Lorenzo Olivotto |
+| Facebook | [www.facebook.com/grosseto5stelle](https://www.facebook.com/grosseto5stelle) |
 
-[Facebook](https://www.facebook.com/grosseto5stelle)
+| **Città** |  |  **Portavoce** | |
+| --- | --- | --- | --- |
+| Grosseto | | Giacomo Gori | Consigliere|
+| Sorano | |Lavinia Montanini | Consigliere|
+| | | Annalisa Saletti | Consigliere|
 
 ## Provincia Livorno
 
-Coordinatore Provinciale: Mario Settino
+| **Coordinamento** | |
+| --- | --- |
+| Coordinatore Provinciale| Mario Settino |
+| Facebook | [livornocinquestelle](https://www.facebook.com/livornocinquestelle)|
 
-Consiglio Comunale: Stella Sorgente
-
-[Facebook](https://www.facebook.com/livornocinquestelle)
+| **Città** |  |  **Portavoce** | |
+| --- | --- | --- | --- |
+|Livorno | | Stella Sorgente | Consigliera|
+| | | Lucia Grassi | Consigliera|
+| | | Luca Vecce | Consigliere|
+|Cecina | | Maria Guglielmino | Consigliera|
+|Collesalvetti | | Daniele Rossi | Consigliere|
+|Piombino | | Daniele Pasquinelli | Consigliere|
+| | | Emanuele Orlandini | Consigliere|
+|Rosignano Marittimo | | Mario Settino | Consigliere|
+| | | Elisa Becherini | Consigliera|
+|San Vincenzo | | Alessio Landi | Assessore|
+| | | Marco Mantovani | Consigliere|
+| | | Antonella Cucinotta | Consigliera|
 
 ## Provincia Lucca
 
-Coordinatore Provinciale: Gianluca Ferrara
+| **Coordinamento** | |
+| --- | --- |
+| Coordinatore Provinciale| Gianluca Ferrara |
+| Facebook | [M5Sviareggio](https://www.facebook.com/M5Sviareggio)|
 
-Viareggio: [Facebook](https://www.facebook.com/M5Sviareggio)
+| **Città** |  |  **Portavoce** | |
+| --- | --- | --- | --- |
+| Capannori | | Simone Lunardi | Consigliere|
+| Pietrasanta | | Nicola Briganti | Consigliere|
 
 ## Provincia Massa Carrara
 
-Coordinatore Provinciale: Luana Mencarelli
+| **Coordinamento** | |
+| --- | --- |
+|Coordinatore Provinciale| Luana Mencarelli |
+| Canale Telegram| [m5s_massa_carrara](https://t.me/m5s_massa_carrara) |
+| Facebook| [massacinquestelle](https://www.facebook.com/massacinquestelle) |
 
-[Facebook](https://www.facebook.com/massacinquestelle)
+| **Città** |  |  **Portavoce** | |
+| --- | --- | --- | --- |
+| Carrara | | Matteo Martinelli | Consigliere |
+| Massa | | Luana Mencarelli | Consigliera |
+| | | Paolo Menchini | Consigliere |
 
 ## Provincia Pisa
 
-Coordinatore Provinciale: Claudio Loconsole
+| **Coordinamento** | |
+| --- | --- |
+|Coordinatore Provinciale| Claudio Loconsole |
+| Facebook | [MoVimento5StellePisa](https://www.facebook.com/MoVimento5StellePisa)|
 
-[Facebook](https://www.facebook.com/MoVimento5StellePisa)
+| **Città** |  |  **Portavoce** | |
+| --- | --- | --- | --- |
+| Pisa |  | Gabriele Amore | Consigliere|
+|  | |Alessandro Tolaini|Consigliere|
+| Cascina |  | David Barontini|Consigliere|
+|  | |Claudio Loconsole|Assessore|
+| Ponsacco | |Gianluigi Arrighini|Consigliere|
+| San Giuliano Terme | |Luigi Vitiello|Consigliere|
+| | |Giampaolo Marrocu|Consigliere|
+| Vecchiano | |Gabriele Fabbris|Consigliere|
 
 ## Provincia Pistoia
 
-Coordinatore Provinciale: Simone Magnani
+| **Coordinamento** | |
+| --- | --- |
+|Coordinatore Provinciale | Simone Magnani |
+| Canale Telegram| [m5s_pistoia](https://t.me/m5s_pistoia) |
+| Facebook | [Pagina Facebook](https://www.facebook.com/profile.php?id=100079568208967)|
 
-[Facebook](https://www.facebook.com/profile.php?id=100079568208967)
+| **Città** |  |  **Portavoce** | |
+| --- | --- | --- | --- |
+| Agliana|  | Massimo Bartoli|Consigliere|
+| Buggiano|  | Danilo Ricci|Consigliere|
+| Monsummano Terme|  | Roberto Mineo|Consigliere|
+| Montecatini |  | Simone Magnani|Consigliere|
+
 
 ## Provincia Prato
 
-Coordinatore Provinciale: Carmine Maioriello
+| **Coordinamento** | |
+| --- | --- |
+|Coordinatore Provinciale | Carmine Maioriello |
+| Facebook | [MoVimento5StellePrato](https://www.facebook.com/MoVimento5StellePrato)|
 
-[Facebook](https://www.facebook.com/MoVimento5StellePrato)
+| **Città** |  |  **Portavoce** | |
+| --- | --- | --- | --- |
+|Prato | |Carmine Maioriello | Consigliere |
+| | |Silvia La Vita | Consigliere |
 
 ## Provincia Siena
 
-Coordinatore Provinciale: Bonella Martinozzi
+| **Coordinamento** | |
+| --- | --- |
+| Coordinatore Provinciale | Bonella Martinozzi |
+| Facebook | [Siena5Stelle](https://www.facebook.com/Siena5Stelle)|
 
-[Facebook](https://www.facebook.com/Siena5Stelle)
+| **Città** |  |  **Portavoce** | |
+| --- | --- | --- | --- |
+| Buonconvento | | Marino Belloni | Consigliere |
+| Colle Val D'Elsa | | Monica Sottili | Consigliera |
+| Foiano della Chiana | | Giovanni Ciampa | Consigliere |
+| Montepulciano | | Mauro Bianchi | Consigliere |
+| Sovicille | | Roberto Bonucci | Consigliere |
+| | | Michele Ballerini | Consigliere
 
 <!--
 ## Calendario Attività
