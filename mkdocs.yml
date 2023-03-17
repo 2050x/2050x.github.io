@@ -19,7 +19,6 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.sections
-    - announce.dismiss
   font:
     text: Roboto
     code: Roboto Mono
