@@ -75,6 +75,7 @@
 | **Coordinamento** | |
 | --- | --- |
 |Coordinatore Provinciale| Lorenzo Olivotto |
+| Canale Telegram| [m5s_grosseto](https://t.me/m5s_grosseto)|
 | Facebook | [www.facebook.com/grosseto5stelle](https://www.facebook.com/grosseto5stelle) |
 
 | **Città** |  |  **Portavoce** | |
@@ -88,6 +89,7 @@
 | **Coordinamento** | |
 | --- | --- |
 | Coordinatore Provinciale| Mario Settino |
+| Canale Telegram| [m5s_livorno](https://t.me/m5s_livorno)|
 | Facebook | [livornocinquestelle](https://www.facebook.com/livornocinquestelle)|
 
 | **Città** |  |  **Portavoce** | |
@@ -110,6 +112,7 @@
 | **Coordinamento** | |
 | --- | --- |
 | Coordinatore Provinciale| Gianluca Ferrara |
+| Canale Telegram| [m5s_lucca](https://t.me/m5s_lucca)|
 | Facebook | [M5Sviareggio](https://www.facebook.com/M5Sviareggio)|
 
 | **Città** |  |  **Portavoce** | |
@@ -136,6 +139,7 @@
 | **Coordinamento** | |
 | --- | --- |
 |Coordinatore Provinciale| Claudio Loconsole |
+| Canale Telegram| [m5s_pisa](https://t.me/m5s_pisa)|
 | Facebook | [MoVimento5StellePisa](https://www.facebook.com/MoVimento5StellePisa)|
 
 | **Città** |  |  **Portavoce** | |
@@ -164,12 +168,12 @@
 | Monsummano Terme|  | Roberto Mineo|Consigliere|
 | Montecatini |  | Simone Magnani|Consigliere|
 
-
 ## Provincia Prato
 
 | **Coordinamento** | |
 | --- | --- |
 |Coordinatore Provinciale | Carmine Maioriello |
+| Canale Telegram| [m5s_prato](https://t.me/m5s_prato)|
 | Facebook | [MoVimento5StellePrato](https://www.facebook.com/MoVimento5StellePrato)|
 
 | **Città** |  |  **Portavoce** | |
@@ -182,6 +186,7 @@
 | **Coordinamento** | |
 | --- | --- |
 | Coordinatore Provinciale | Bonella Martinozzi |
+| Canale Telegram| [m5s_siena](https://t.me/m5s_siena)|
 | Facebook | [Siena5Stelle](https://www.facebook.com/Siena5Stelle)|
 
 | **Città** |  |  **Portavoce** | |
