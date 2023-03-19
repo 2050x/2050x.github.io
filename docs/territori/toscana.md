@@ -15,11 +15,11 @@
 | Canale Telegram| [m5s_toscana](https://t.me/m5s_toscana)|
 | Sito| [www.movimento5stelletoscana.it](https://www.movimento5stelletoscana.it/)|
 | Facebook| [www.facebook.com/Movimento5StelleToscana](https://www.facebook.com/Movimento5StelleToscana/)|
-| Email| [m5s.comunicazione@consiglio.regione.toscana.it](mailto:m5s.comunicazione@consiglio.regione.toscana.it)|
+| Email| [coordinatore.toscana@movimento5stelle.eu](mailto:coordinatore.toscana@movimento5stelle.eu)|
 
 | **Consiglio Regionale** | | | 
 | --- | --- | --- |
-| Irene Galletti | Consigliera Regionale _capogruppo_| [Facebook](https://www.facebook.com/IreneGallettiM5S) | 
+| Irene Galletti | Presidente e Consigliera Regionale | [Facebook](https://www.facebook.com/IreneGallettiM5S) | 
 | Silvia Noferi | Consigliera Regionale| [Facebook](https://www.facebook.com/silvianoferi64) | 
 
 ## Provincia Firenze
