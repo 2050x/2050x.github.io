@@ -11,16 +11,16 @@
 
 | **Coordinamento Regionale** | |
 | --- | --- |
-| Coordinatore Regionale| Irene Galletti|
-| Canale Telegram| [m5s_toscana](https://t.me/m5s_toscana)|
-| Sito| [www.movimento5stelletoscana.it](https://www.movimento5stelletoscana.it/)|
-| Facebook| [www.facebook.com/Movimento5StelleToscana](https://www.facebook.com/Movimento5StelleToscana/)|
-| Email| [coordinatore.toscana@movimento5stelle.eu](mailto:coordinatore.toscana@movimento5stelle.eu)|
+| Coordinatrice Regionale | Irene Galletti|
+| Canale Telegram | [m5s_toscana](https://t.me/m5s_toscana)|
+| Sito | [www.movimento5stelletoscana.it](https://www.movimento5stelletoscana.it/)|
+| Facebook | [www.facebook.com/Movimento5StelleToscana](https://www.facebook.com/Movimento5StelleToscana/)|
+| Email | [coordinatore.toscana@movimento5stelle.eu](mailto:coordinatore.toscana@movimento5stelle.eu)|
 
 | **Consiglio Regionale** | | | 
 | --- | --- | --- |
 | Irene Galletti | Presidente e Consigliera Regionale | [Facebook](https://www.facebook.com/IreneGallettiM5S) | 
-| Silvia Noferi | Consigliera Regionale| [Facebook](https://www.facebook.com/silvianoferi64) | 
+| Silvia Noferi | Consigliera Regionale| [Facebook](https://www.facebook.com/silvianoferi64) |
 
 ## Provincia Firenze
 
@@ -54,7 +54,7 @@
 | Scandicci | [Facebook](https://www.facebook.com/Mov5StelleScandicci) | | |
 | Sesto Fiorentino | [Facebook](https://www.facebook.com/m5ssestofiorentino) | | |
 | Vicchio | | Paolo Cioni|Consigliere|
-    
+
 ## Provincia Arezzo
 
 | **Coordinamento** | |
@@ -81,8 +81,8 @@
 | **Città** |  |  **Portavoce** | |
 | --- | --- | --- | --- |
 | Grosseto | | Giacomo Gori | Consigliere|
-| Sorano | |Lavinia Montanini | Consigliere|
-| | | Annalisa Saletti | Consigliere|
+| Sorano | | Lavinia Montanini | Consigliere|
+| | | Annalisa Saletti | Consigliera|
 
 ## Provincia Livorno
 
@@ -172,20 +172,20 @@
 
 | **Coordinamento** | |
 | --- | --- |
-|Coordinatore Provinciale | Carmine Maioriello |
+| Coordinatore Provinciale | Carmine Maioriello |
 | Canale Telegram| [m5s_prato](https://t.me/m5s_prato)|
 | Facebook | [MoVimento5StellePrato](https://www.facebook.com/MoVimento5StellePrato)|
 
 | **Città** |  |  **Portavoce** | |
 | --- | --- | --- | --- |
-|Prato | |Carmine Maioriello | Consigliere |
+| Prato | |Carmine Maioriello | Consigliere |
 | | |Silvia La Vita | Consigliere |
 
 ## Provincia Siena
 
 | **Coordinamento** | |
 | --- | --- |
-| Coordinatore Provinciale | Bonella Martinozzi |
+| Coordinatrice Provinciale | Bonella Martinozzi |
 | Canale Telegram| [m5s_siena](https://t.me/m5s_siena)|
 | Facebook | [Siena5Stelle](https://www.facebook.com/Siena5Stelle)|
 
