@@ -1,8 +1,14 @@
-## Messengers
+---
+title: Usare bene i social
+---
+# Usare bene i social
+In questa pagina raccogliamo una serie di consigli pratici / "best practices" per usare gli strumenti al meglio. E' una pagina in continuo sviluppo, come gli strumenti evolvono e il mondo pure.. seguitela.
 
-## Telegram
+## WhatsApp VS Telegram: quale usare?
 
-**CONSIGLI PRATICI PER TELEGRAM**
+
+
+## Telegram: Canali pubblici
 
 - **sicurezza**: chiunque sia admin di un canale telegram ufficiale deve abilitare la **doppia verifica** per il login, e aggiungere un codice di accesso per accedere a Telegram (è un minimo livello di protezione in più)
 - ricordiamoci che **ogni messaggio** che inviamo ad un canale è un “ping”, **una distrazione**, in mano ai nostri destinatari. meglio **non eccedere un messaggio al giorno**. cerchiamo di concentrare e sintetizzare quello che abbiamo da condividere. se esageriamo con i messaggi, o mandiamo cose poco interessanti, poi la gente disabilita le **notifiche** (possiamo sapere in quanti lo fanno, andando nelle statistiche del canale)
@@ -14,5 +20,26 @@
 - imparare a mettere in **neretto** le parole chiave se il messaggio è lungo.
 - sempre a differenza di WhatsApp, quando uno entra in un canale o gruppo, può **vedere lo storico**, tutti i messaggi precedenti. questa cosa è fondamentale. e teniamone conto (non parliamo male di qualcuno che poi potrebbe entrare nel nostro gruppo ;)
 - quando **scrivete una data e un orario**: sempre aggiungere il nome del giorno, e l'orario usare il **formato HH:mm** ad esempio 18:30 o 9:00 (si leggono e memorizzano meglio, non scrivete 18,30 o 9 )
-- quando stampate un volantino e fate un evento, prevedere sempre il **QR code** del vostro canale telegram o segnalarne l'indirizzo: è il primo punto di aggancio con le persone nuove. (in manifestazione avevo il cartello con il QR del canale e abbiamo avuto 8 iscrizioni. abbiamo fatto troppi banchini di attività senza un precisio metodo di ricontatto)
+- quando stampate un volantino e fate un evento, prevedere sempre il **QR code** del vostro canale telegram o segnalarne l'indirizzo: è il primo punto di aggancio con le persone nuove. (in manifestazione avevo il cartello con il QR del canale e abbiamo avuto 8 iscrizioni. abbiamo fatto troppi banchini di attività senza un preciso metodo di ricontatto)
+
+## Telegram: Gruppi
+
+- mai usare un gruppo per inviare messaggi privati (pena capitale).
+- se possibile rispondere con una emoticon / reaction ad un messaggio, e non con un nuovo messaggio con l'emoticon. 
+
+## WhatsApp
+
+## Facebook
+
+### Profilo Personale
+
+### Pagina Pubblica
+
+### Gruppo
+
+## Instagram
+
+## Twitter
+
+## TikTok
 
