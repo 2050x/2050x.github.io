@@ -4,6 +4,9 @@ hide:
 ---
 # Informazioni
 
+> Se diventiamo _tutti_ più bravi, miglioriamo tutti.  
+> E il modo migliore è condividere il meglio che abbiamo e sappiamo.
+
 ## 2050^x^
 Il 2050 è la data limite oltre la quale dobbiamo cambiare la direzione del mondo:
 crisi climatica, singolarità tecnologica, fallimento del neo-liberismo economico (con divergenza ricchissimi/poverissimi), tensioni geo-politiche, crisi esistenziali.  
@@ -27,7 +30,7 @@ I temi che interessano sono sopratutto:
 - **tecnologia** e giochi
 - **collaborazione** e discussione costruttiva
 
-Il progetto e il gruppo di lavoro è sviluppato da **[Stefano Cecere](https://cecere.substack.com)**, attivista ventennale ed esperto di innovazione, tecnologia e formazione.
+Il progetto e il gruppo di lavoro è sviluppato da **[Stefano Cecere](https://cecere.xyz)**, attivista dal 1996 ed esperto di innovazione, tecnologia e formazione.
 
 ---
 
