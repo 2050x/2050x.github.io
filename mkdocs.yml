@@ -19,6 +19,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.sections
+    - navigation.indexes
   font:
     text: Roboto
     code: Roboto Mono
