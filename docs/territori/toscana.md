@@ -26,9 +26,9 @@
 
 | **Coordinamento** | |
 | --- | --- |
-|Coordinatore Provinciale|[Andrea Quartini](https://linktr.ee/quartini)|
-| Canale Telegram| [m5s_firenze](https://t.me/m5s_firenze)|
-| Newsletter| [m5sfirenze.substack.com](https://m5sfirenze.substack.com)|
+|Coordinatore Provinciale |[Andrea Quartini](https://linktr.ee/quartini)|
+| Canale Telegram | [m5s_firenze](https://t.me/m5s_firenze)|
+| Newsletter | [m5sinforma.substack.com](https://m5sinforma.substack.com)|
 
 | **Città** |  |  **Portavoce** | |
 | --- | --- | --- | --- |

@@ -71,7 +71,7 @@ plugins:
       exclude:
         - index.md
 
-repo_url: https://github.com/M5Sx/2050x.org
+repo_url: https://github.com/2050x/2050x.org
 edit_uri: edit/main/docs/
 
 extra_css:
