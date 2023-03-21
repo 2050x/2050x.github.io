@@ -5,43 +5,43 @@ title: Costituzione Italiana
 
 ## Principi fondamentali
 
-##### Art. 1.
+##### Art. 1
 
 L'Italia è una Repubblica democratica, fondata sul lavoro.
 
 La sovranità appartiene al popolo, che la esercita nelle forme e nei limiti della Costituzione.
 
-##### Art. 2.
+##### Art. 2
 
 La Repubblica riconosce e garantisce i diritti inviolabili dell'uomo, sia come singolo sia nelle formazioni sociali ove si svolge la sua personalità, e richiede l'adempimento dei doveri inderogabili di solidarietà politica, economica e sociale.
 
-##### Art. 3.
+##### Art. 3
 
 Tutti i cittadini hanno pari dignità sociale e sono eguali davanti alla legge, senza distinzione di sesso, di razza, di lingua, di religione, di opinioni politiche, di condizioni personali e sociali.
 
 È compito della Repubblica rimuovere gli ostacoli di ordine economico e sociale, che, limitando di fatto la libertà e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana e l'effettiva partecipazione di tutti i lavoratori all'organizzazione politica, economica e sociale del Paese.
 
-##### Art. 4.
+##### Art. 4
 
 La Repubblica riconosce a tutti i cittadini il diritto al lavoro e promuove le condizioni che rendano effettivo questo diritto.
 
 Ogni cittadino ha il dovere di svolgere, secondo le proprie possibilità e la propria scelta, un'attività o una funzione che concorra al progresso materiale o spirituale della società.
 
-##### Art. 5.
+##### Art. 5
 
 La Repubblica, una e indivisibile, riconosce e promuove le autonomie locali; attua nei servizi che dipendono dallo Stato il più ampio decentramento amministrativo; adegua i principî ed i metodi della sua legislazione alle esigenze dell'autonomia e del decentramento.
 
-##### Art. 6.
+##### Art. 6
 
 La Repubblica tutela con apposite norme le minoranze linguistiche.
 
-##### Art. 7.
+##### Art. 7
 
 Lo Stato e la Chiesa cattolica sono, ciascuno nel proprio ordine, indipendenti e sovrani.
 
 I loro rapporti sono regolati dai Patti Lateranensi. Le modificazioni dei Patti, accettate dalle due parti, non richiedono procedimento di revisione costituzionale.
 
-##### Art. 8.
+##### Art. 8
 
 Tutte le confessioni religiose sono egualmente libere davanti alla legge.
 
@@ -49,13 +49,19 @@ Le confessioni religiose diverse dalla cattolica hanno diritto di organizzarsi s
 
 I loro rapporti con lo Stato sono regolati per legge sulla base di intese con le relative rappresentanze.
 
-##### Art. 9.
+##### Art. 9
 
 La Repubblica promuove lo sviluppo della cultura e la ricerca scientifica e tecnica.
 
 Tutela il paesaggio e il patrimonio storico e artistico della Nazione.
 
-##### Art. 10.
+**Tutela l'ambiente, la biodiversità e gli ecosistemi, anche nell'interesse delle future generazioni.**
+
+**La legge dello Stato disciplina i modi e le forme di tutela degli animali.**
+
+> _(modifiche del 11 febbraio 2022 su proposta del Movimento 5 Stelle)_
+
+##### Art. 10
 
 L'ordinamento giuridico italiano si conforma alle norme del diritto internazionale generalmente riconosciute.
 
@@ -65,11 +71,11 @@ Lo straniero, al quale sia impedito nel suo paese l'effettivo esercizio delle li
 
 Non è ammessa l'estradizione dello straniero per reati politici.
 
-##### Art. 11.
+##### Art. 11
 
 L'Italia ripudia la guerra come strumento di offesa alla libertà degli altri popoli e come mezzo di risoluzione delle controversie internazionali; consente, in condizioni di parità con gli altri Stati, alle limitazioni di sovranità necessarie ad un ordinamento che assicuri la pace e la giustizia fra le Nazioni; promuove e favorisce le organizzazioni internazionali rivolte a tale scopo.
 
-##### Art. 12.
+##### Art. 12
 
 La bandiera della Repubblica è il tricolore italiano: verde, bianco e rosso, a tre bande verticali di eguali dimensioni.
 
@@ -979,7 +985,7 @@ I consiglieri regionali non possono essere chiamati a rispondere delle opinioni 
 
 Il Presidente della Giunta regionale, salvo che lo statuto regionale disponga diversamente, è eletto a suffragio universale e diretto. Il Presidente eletto nomina e revoca i componenti della Giunta.
 
-##### Art. 123.
+##### Art. 123
 
 Ciascuna Regione ha uno statuto che, in armonia con la Costituzione, ne determina la forma di governo e i principi fondamentali di organizzazione e funzionamento. Lo statuto regola l'esercizio del diritto di iniziativa e del referendum su leggi e provvedimenti amministrativi della Regione e la pubblicazione delle leggi e dei regolamenti regionali.
 
@@ -993,11 +999,11 @@ In ogni Regione, lo statuto disciplina il Consiglio delle autonomie locali, qual
 
 Abrogato
 
-##### Art. 125.
+##### Art. 125
 
 Nella Regione sono istituiti organi di giustizia amministrativa di primo grado, secondo l'ordinamento stabilito da legge della Repubblica. Possono istituirsi sezioni con sede diversa dal capoluogo della Regione.
 
-##### Art. 126.
+##### Art. 126
 
 Con decreto motivato del Presidente della Repubblica sono disposti lo scioglimento del Consiglio regionale e la rimozione del Presidente della Giunta che abbiano compiuto atti contrari alla Costituzione o gravi violazioni di legge. Lo scioglimento e la rimozione possono altresì essere disposti per ragioni di sicurezza nazionale. Il decreto è adottato sentita una Commissione di deputati e senatori costituita, per le questioni regionali, nei modi stabiliti con legge della Repubblica.
 
@@ -1005,50 +1011,50 @@ Il Consiglio regionale può esprimere la sfiducia nei confronti del Presidente d
 
 L'approvazione della mozione di sfiducia nei confronti del Presidente della Giunta eletto a suffragio universale e diretto, nonché la rimozione, l'impedimento permanente, la morte o le dimissioni volontarie dello stesso comportano le dimissioni della Giunta e lo scioglimento del Consiglio. In ogni caso i medesimi effetti conseguono alle dimissioni contestuali della maggioranza dei componenti il Consiglio.
 
-##### Art. 127.
+##### Art. 127
 
 Il Governo, quando ritenga che una legge regionale ecceda la competenza della Regione, può promuovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale entro sessanta giorni dalla sua pubblicazione.
 
 La Regione, quando ritenga che una legge o un atto avente valore di legge dello Stato o di un'altra Regione leda la sua sfera di competenza, può promuovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale entro sessanta giorni dalla pubblicazione della legge o dell'atto avente valore di legge.
 
-##### Art. 128.
+##### Art. 128
 
 Abrogato
 
-##### Art. 129.
+##### Art. 129
 
 Abrogato
 
-##### Art. 130.
+##### Art. 130
 
 Abrogato
 
-##### Art. 131.
+##### Art. 131
 
 Sono costituite le seguenti Regioni:
 
-* Piemonte;
-* Valle d'Aosta;
-* Lombardia;
-* Trentino-Alto Adige;
-* Veneto;
-* Friuli-Venezia Giulia;
-* Liguria;
-* Emilia-Romagna;
-* Toscana;
-* Umbria;
-* Marche;
-* Lazio;
-* Abruzzi;
-* Molise;
-* Campania;
-* Puglia;
-* Basilicata;
-* Calabria;
-* Sicilia;
-* Sardegna.
+- Piemonte;
+- Valle d'Aosta;
+- Lombardia;
+- Trentino-Alto Adige;
+- Veneto;
+- Friuli-Venezia Giulia;
+- Liguria;
+- Emilia-Romagna;
+- Toscana;
+- Umbria;
+- Marche;
+- Lazio;
+- Abruzzi;
+- Molise;
+- Campania;
+- Puglia;
+- Basilicata;
+- Calabria;
+- Sicilia;
+- Sardegna.
 
-##### Art. 132.
+##### Art. 132
 
 Si può con legge costituzionale, sentiti i Consigli regionali, disporre la fusione di Regioni esistenti o la creazione di nuove Regioni con un minimo di un milione d'abitanti, quando ne facciano richiesta tanti Consigli comunali che rappresentino almeno un terzo delle popolazioni interessate, e la proposta sia approvata con referendum dalla maggioranza delle popolazioni stesse.
 
@@ -1084,13 +1090,13 @@ L'ufficio di giudice della Corte è incompatibile con quello di membro del Parla
 
 Nei giudizi d'accusa contro il Presidente della Repubblica, intervengono, oltre i giudici ordinari della Corte, sedici membri tratti a sorte da un elenco di cittadini aventi i requisiti per l'eleggibilità a senatore, che il Parlamento compila ogni nove anni mediante elezione con le stesse modalità stabilite per la nomina dei giudici ordinari.
 
-##### Art. 136.
+##### Art. 136
 
 Quando la Corte dichiara l'illegittimità costituzionale di una norma di legge o di atto avente forza di legge, la norma cessa di avere efficacia dal giorno successivo alla pubblicazione della decisione.
 
 La decisione della Corte è pubblicata e comunicata alle Camere ed ai Consigli regionali interessati, affinché, ove lo ritengano necessario, provvedano nelle forme costituzionali.
 
-##### Art. 137.
+##### Art. 137
 
 Una legge costituzionale stabilisce le condizioni, le forme, i termini di proponibilità dei giudizi di legittimità costituzionale, e le garanzie d'indipendenza dei giudici della Corte.
 
@@ -1100,7 +1106,7 @@ Contro le decisioni della Corte costituzionale non è ammessa alcuna impugnazion
 
 #### Sezione II — Revisione della Costituzione - Leggi costituzionali
 
-##### Art. 138.
+##### Art. 138
 
 Le leggi di revisione della Costituzione e le altre leggi costituzionali sono adottate da ciascuna Camera con due successive deliberazioni ad intervallo non minore di tre mesi, e sono approvate a maggioranza assoluta dei componenti di ciascuna Camera nella seconda votazione.
 
@@ -1108,6 +1114,6 @@ Le leggi stesse sono sottoposte a referendum popolare quando, entro tre mesi dal
 
 Non si fa luogo a referendum se la legge è stata approvata nella seconda votazione da ciascuna delle Camere a maggioranza di due terzi dei suoi componenti.
 
-##### Art. 139.
+##### Art. 139
 
 La forma repubblicana non può essere oggetto di revisione costituzionale.
