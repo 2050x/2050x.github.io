@@ -13,7 +13,7 @@ crisi climatica, singolarità tecnologica, fallimento del neo-liberismo economic
 Il nome ce lo hanno ispirato la _Space X_ e i _TED^x^_, la versione delle famose conferenze innovatrici auto-organizzate dai cittadini. E poi fa molto **futuro** e molto **nerd** ;)
 
 ## Il team M5S^x^
-Siamo un gruppo di attivisti, quasi tutti del Movimento 5 Stelle o simpatizzanti, un po' nerd, un po' appassionati, un po' pro-attiviti, che condividono:
+Siamo un gruppo di attivisti e simpatizzanti del Movimento 5 Stelle, un po' nerd, un po' appassionati, un po' pro-attiviti, che condividono:
 
 1. un sincero interesse a far crescere la cittadinanza attiva in **qualità** e **struttura**
 2. preoccupazione i personalismi e le auto-referenzialità
