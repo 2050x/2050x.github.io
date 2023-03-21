@@ -301,19 +301,21 @@ Ai sindacati non può essere imposto altro obbligo se non la loro registrazione 
 
 I sindacati registrati hanno personalità giuridica. Possono, rappresentati unitariamente in proporzione dei loro iscritti, stipulare contratti collettivi di lavoro con efficacia obbligatoria per tutti gli appartenenti alle categorie alle quali il contratto si riferisce.
 
-##### Art. 40.
+##### Art. 40
 
 Il diritto di sciopero si esercita nell'ambito delle leggi che lo regolano.
 
-##### Art. 41.
+##### Art. 41
 
 L'iniziativa economica privata è libera.
 
-Non può svolgersi in contrasto con l'utilità sociale o in modo da recare danno alla sicurezza, alla libertà, alla dignità umana.
+Non può svolgersi in contrasto con l'utilità sociale o in modo da recare danno alla salute, **all’ambiente**, alla sicurezza, alla libertà, alla dignità umana.
 
-La legge determina i programmi e i controlli opportuni perché l'attività economica pubblica e privata possa essere indirizzata e coordinata a fini sociali.
+La legge determina i programmi e i controlli opportuni perché l'attività economica pubblica e privata possa essere indirizzata e coordinata a fini sociali e **ambientali**.
 
-##### Art. 42.
+> _(modifiche del 11 febbraio 2022 su proposta del Movimento 5 Stelle)_
+
+##### Art. 42
 
 La proprietà è pubblica o privata. I beni economici appartengono allo Stato, ad enti o a privati.
 
