@@ -411,7 +411,7 @@ Il Parlamento si riunisce in seduta comune dei membri delle due Camere nei soli 
 
 La Camera dei deputati è eletta a suffragio universale e diretto.
 
-Il numero dei deputati è di seicentotrenta, dodici dei quali eletti nella circoscrizione Estero.
+Il numero dei deputati è di quattrocento, otto dei quali eletti nella circoscrizione Estero.
 
 Sono eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hanno compiuto i venticinque anni di età.
 
@@ -421,7 +421,7 @@ La ripartizione dei seggi tra le circoscrizioni, fatto salvo il numero dei seggi
 
 Il Senato della Repubblica è eletto a base regionale, salvi i seggi assegnati alla circoscrizione Estero.
 
-Il numero dei senatori elettivi è di trecentoquindici, sei dei quali eletti nella circoscrizione Estero.
+Il numero dei senatori elettivi è di duecento, quattro dei quali eletti nella circoscrizione Estero.
 
 Nessuna Regione può avere un numero di senatori inferiore a sette; il Molise ne ha due, la Valle d'Aosta uno.
 
