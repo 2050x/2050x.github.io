@@ -6,7 +6,13 @@ In questa pagina raccogliamo una serie di consigli pratici / "best practices" pe
 
 ## WhatsApp VS Telegram: quale usare?
 
+Per molti versi sono simili, ma preferiamo Telegram perché:
 
+> Telegram è meglio di WhatsApp per un motivo semplice: non mostra a tutti i partecipanti ad un canale i numeri di telefono di tutti gli altri.
+
+> Voi vi iscrivete e il vostro numero di telefono lo vedono solo chi vi ha già in rubrica. Neanche gli amminstratori dei canali possono vedere i vostri numeri di telefono. Per noi la questione privacy e gestione dei dati è importante.
+
+Inoltre ormai tutti abbiamo su WhatsApp molti (troppi) gruppi che generano più rumore che informazione, ed avere una app specifica su cui teniamo i Canali Informativi che ci interessano davvero, senza troppe distrazioni, può aiutare a separare gli ambiti.
 
 ## Telegram: Canali pubblici
 
