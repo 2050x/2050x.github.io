@@ -18,7 +18,7 @@ Bisogna solo:
 - essere cittadino italiano oppure cittadino UE residente in Italia oppure cittadino straniero munito di permesso di soggiorno UE.
 - non essere aderente a partiti politici e/o associazioni in contrasto o concorrenti con quelli del M5S.
 - non aver subito l'esclusione e/o avere procedimenti giudiziari sotto il simbolo del M5S.
-- accettare lo Statuto, la [Carta dei Principi e dei Valori](m5s/documenti/statuto/02_carta-valori.md) ed il Codice Etico.
+- accettare lo Statuto, la [Carta dei Principi e dei Valori](m5s/documenti/statuto.md) ed il Codice Etico.
 
 [Iscriversi qui: portale.movimento5stelle.eu/iscrizioni](https://portale.movimento5stelle.eu/iscrizioni)
 

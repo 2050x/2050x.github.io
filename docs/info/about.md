@@ -16,11 +16,12 @@ Il nome ce lo hanno ispirato la _Space X_ e i _TED^x^_, la versione delle famose
 Siamo un gruppo di attivisti e simpatizzanti del Movimento 5 Stelle, un po' nerd, un po' appassionati, un po' pro-attiviti, che condividono:
 
 1. un sincero interesse a far crescere la cittadinanza attiva in **qualità** e **struttura**
-2. preoccupazione i personalismi e le auto-referenzialità
+2. preoccupazione per i personalismi e le auto-referenzialità
 3. disinteresse per la polemica e la nostalgia, **amore per il progresso e la critica costruttiva**
 4. **apertura al mondo 2050**, ovvero tutto l’ambito progressista confinante con il M5S
-5. un minimo di storia da attivisti e di **cultura politica**
-6. l'auto-educazione e il cercare di andare dritti al punto.
+5. un minimo di serietà, di storia da attivisti e di **cultura politica**
+6. l'auto-educazione e il cercare di fare le cose per bene
+7. un minimo di leggerezza e amore per l'ozio attivo
 
 I temi che interessano sono sopratutto:
 

@@ -1,10 +1,10 @@
-# Introduzione
+# Il Manuale dell'Attivista 2050
 
 
 !!! important "Sezione in lavorazione"
     Ci vorrà qualche settimana perché sia rilasciata la prima versione. Se hai suggerimenti, intanto, benvengano!
 
-Abbiamo pensato di scrivere questo **Manuale dell'Attivista 2050** per sintetizzare decenni di esperienze e di conoscenze, che non tutti hanno e che potrebbe migliorare sensibilmente l'azione collettiva, come si suol dire l'**Intelligenza Collettiva**.
+Abbiamo pensato di scrivere questo **Manuale dell'Attivista Galattico 2050** per sintetizzare decenni di esperienze e di conoscenze, che non tutti hanno e che potrebbe migliorare sensibilmente l'azione collettiva, come si suol dire l'**Intelligenza Collettiva**.
 
 Non è ovviamente un manuale esaustivo, è anzi in continua evoluzione.
 

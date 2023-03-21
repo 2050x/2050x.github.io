@@ -7,7 +7,7 @@ hide:
 ---
 # Spazio alla formazione
 
-Questo sito è un contributo della Gilda M5S^x^, **attivisti volontari** del Movimento 5 Stelle per sviluppare la Cittadinanza Attiva e all'**Intelligenza Collettiva** facilitando l'**accesso**, il **coinvolgimento** e la **formazione** di chi vorrebbe attivarsi con le migliori tecnologie disponibili e un pizzico di innovazione d'avanguardia.
+Questo sito è un contributo di **attivisti volontari** del Movimento 5 Stelle per sviluppare la Cittadinanza Attiva e l'**Intelligenza Collettiva** facilitando l'**accesso**, il **coinvolgimento** e la **formazione** e l'**innovazione** di chi vorrebbe attivarsi a migliorare il mondo.
 
 <div class="grid cards" markdown>
 
