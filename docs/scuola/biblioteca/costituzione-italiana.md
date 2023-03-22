@@ -1,5 +1,7 @@
 ---
 title: Costituzione Italiana
+summary: con evidenza di chi e quando ha apportato le ultime modifiche
+updated: 2023-03-22
 ---
 # Costituzione della Repubblica Italiana
 
