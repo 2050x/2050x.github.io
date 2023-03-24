@@ -1,6 +1,6 @@
 ---
 title: Costituzione Italiana
-description: con evidenza di chi e quando ha apportato le ultime modifiche
+description: "con le Ultime Modifiche: chi e quando l'ha modificata?"
 updated: 2023-03-22
 ---
 # Costituzione della Repubblica Italiana
