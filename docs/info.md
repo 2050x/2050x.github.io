@@ -1,8 +1,9 @@
 ---
+title: Chi siamo
 hide:
-#  - navigation
+  - navigation
 ---
-# Informazioni
+# Chi siamo
 
 > Se diventiamo _tutti_ più bravi, miglioriamo tutti.  
 > E il modo migliore è condividere il meglio che abbiamo e sappiamo.
@@ -49,7 +50,7 @@ Cliccala, ed entrerai in modalità editor.
 
 Un po' più complesso di WikiPedia, ma meglio.
 
-Se prima vuoi che ci parliamo, [contattaci](contatto.md)
+Se prima vuoi che ci parliamo, [contattaci](./contatto.md)
 
 ---
  
@@ -64,4 +65,23 @@ Non ci sono database o linguaggi di programmazione. Solo dei files di testo semp
 
 Ovviamente abbiamo scelto così perché abbiamo a cuore la condivisione, l'accessibilità e la portabilità dei contenuti.
 
-Se tutto questo ti piace, sarai il [benvenuto nella nostra piccola comunità](contatto.md).
+Se tutto questo ti piace, sarai il [benvenuto nella nostra piccola comunità](./contatto.md).
+
+## Licenza
+
+Tutti i contenuti di questo sito, salvo i documenti ufficiali del M5S, sono **© Stefano Cecere e Team M5S++** e rilasciati sotto licenza [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0)
+
+**Cosa significa?**
+Che puoi liberamente copiare o distribuire, anche modificare, basta che citi esplicitamente l'autore originale e questo sito e che non ne fai usi commerciali, altrimenti devi chiedere il permesso.
+
+In pratica **puoi:**
+
+- **Condividere**: riprodurre, distribuire, esporre in pubblico, questo materiale con qualsiasi mezzo e formato
+- **Modificare**: remixare, trasformare il materiale e basarti su di esso per le tue opere 
+
+**a queste condizioni**:
+
+- **Attribuzione**: Devi riconoscere una menzione di paternità adeguata, fornire un link alla licenza (questa pagina ad esempio) e indicare se sono state effettuate delle modifiche. Puoi fare ciò in qualsiasi maniera ragionevole possibile, ma non con modalità tali da suggerire che il licenziante avalli te o il tuo utilizzo del materiale.
+- **Non Commerciale**: Non puoi utilizzare il materiale per scopi commerciali.
+- **Stessa Licenza**: Se remixi, trasformi il materiale o ti basi su di esso, devi distribuire i tuoi contributi con questa stessa licenza CC. 
+

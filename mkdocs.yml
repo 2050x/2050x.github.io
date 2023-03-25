@@ -74,6 +74,7 @@ plugins:
 
 repo_url: https://github.com/2050x/2050x.org
 edit_uri: edit/main/docs/
+repo_name: GitHub/2050x.org
 
 extra_css:
   - assets/stylesheets/extra.css
@@ -85,12 +86,12 @@ extra:
   social:
     - icon: fontawesome/brands/telegram 
       link: https://t.me/org2050x
-    - icon: fontawesome/brands/discord 
-      link: https://discord.gg/VUjgGtDgAh
     - icon: fontawesome/brands/facebook 
       link: https://www.facebook.com/groups/2050x
-    - icon: fontawesome/brands/github 
-      link: https://github.com/2050x
+#    - icon: fontawesome/brands/github 
+#      link: https://github.com/2050x
+#    - icon: fontawesome/brands/discord 
+#      link: https://discord.gg/VUjgGtDgAh
   consent:
     title: Accettazione Cookie
     description: >- 

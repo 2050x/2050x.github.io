@@ -25,9 +25,9 @@ la Storia, lo Statuto e alcuni dati
 dove siamo? tutti i riferimenti regione per regione
 - :fontawesome-solid-brain: **[Spazio](spazio/index.md)**  
 per le idee, le risorse, i grandi e i piccoli temi
-- :fontawesome-solid-circle-info: **[Informazioni](info/about.md)**  
+- :fontawesome-solid-circle-info: **[Chi siamo](info.md)**  
 Chi siamo? Come funziona questo sito? **Vuoi partecipare?**
-- :fontawesome-solid-envelope-open-text: **[Newsletter / :fontawesome-brands-telegram: Telegram](info/contatto.md)**  
+- :fontawesome-solid-envelope-open-text: **[Newsletter / :fontawesome-brands-telegram: Telegram](contatto.md)**  
 Seguici via Telegram o Newsletter
 </div>
 
@@ -39,7 +39,7 @@ Seguici via Telegram o Newsletter
 Stiamo aggiornando tutti i dati territoriali con i coordinatori provinciali e relativi canali di comunicazione
 
 **10 dicembre 2022**
-Molti documenti nella sezione Spazio (Manifesto della Parsimonia, la Dichiarazione universale Diritti Umani). Perfezionato il tema del sito, con un nuovo motore di ricerca molto potente e le date di modifica di ogni pagina. stay tuned! [Seguiteci per ricevere aggiornamenti o partecipare](info/contatto.md)
+Molti documenti nella sezione Spazio (Manifesto della Parsimonia, la Dichiarazione universale Diritti Umani). Perfezionato il tema del sito, con un nuovo motore di ricerca molto potente e le date di modifica di ogni pagina. stay tuned! [Seguiteci per ricevere aggiornamenti o partecipare](contatto.md)
 
 **3 dicembre 2022**
 :loudspeaker: Primo rilascio pubblico di questo sito, con il Regolamento dei Gruppi Territoriali, parte dello Statuto, e una definizione di massima della struttura dei contenuti che andremo a elaborare nelle prossime settimane. 
