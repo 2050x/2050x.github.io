@@ -3,7 +3,7 @@ site_url: https://2050x.org
 site_author: Stefano Cecere
 site_description: 2050x è uno spazio formativo di cittadini attivi del M5S che vogliono migliorarsi per migliorare il mondo, possibilmente < 2050
 
-copyright: <a href="/info/about">chi siamo a gestire questo bellissimo sito?</a> - <a href="/info/licenza">licenza Creative Commons</a> - <a href="/info/contatto">newsletter</a>
+copyright: <a href="/info/">chi siamo a gestire questo bellissimo sito?</a> - <a href="/info/#licenza">licenza Creative Commons</a> - <a href="/contatto">newsletter</a>
 
 theme:
   name: material
