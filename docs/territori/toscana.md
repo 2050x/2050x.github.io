@@ -193,7 +193,6 @@ updated: 2023-03-23
 | --- | --- |
 | Coordinatrice Provinciale | Bonella Martinozzi |
 | Canale Telegram| [m5s_siena](https://t.me/m5s_siena)|
-| Facebook | [Siena5Stelle](https://www.facebook.com/Siena5Stelle)|
 
 | **Città** |  |  **Portavoce** | |
 | --- | --- | --- | --- |
