@@ -54,16 +54,15 @@ markdown_extensions:
 plugins:
   - search:
       lang: it
-  - social:
-      cards_color:
-        fill: "#14608E" 
-        text: "#FFFFFF"
   - table-reader
   - minify:
       minify_html: true
   - awesome-pages
   - tags:
       tags_file: info/tags.md
+  - blog:
+      post_url_date_format: yyyy
+      post_url_format: "{date}/{slug}"
   - git-revision-date-localized:
       enabled: !ENV [CI, false]
       type: date

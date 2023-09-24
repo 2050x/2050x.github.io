@@ -35,6 +35,8 @@ Seguici via Telegram o Newsletter
 
 ## Ultimi aggiornamenti
 
+**settembre 2023** - [hallo](blog/posts/scuola-fq.md)
+
 **marzo 2023**
 Stiamo aggiornando tutti i dati territoriali con i coordinatori provinciali e relativi canali di comunicazione
 
