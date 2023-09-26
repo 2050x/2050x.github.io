@@ -10,6 +10,7 @@ Se invece vuoi giusto iniziare a seguire le nostre attività:
 
 - :fontawesome-brands-telegram: **[Canale Telegram](https://t.me/org2050x)**
 - :fontawesome-solid-envelope-open-text: **[Newsletter 2042](https://2042.substack.com)**
+- :fontawesome-solid-envelope-open-text: **[Newsletter M5S InForma](https://m5sinforma.substack.com)**
 - :fontawesome-brands-facebook: **[Gruppo Facebook](https://www.facebook.com/groups/2050x)**
 
 </div>
