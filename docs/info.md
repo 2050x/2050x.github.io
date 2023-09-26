@@ -32,9 +32,10 @@ I temi che interessano sono sopratutto:
 - **tecnologia** e giochi
 - **collaborazione** e discussione costruttiva
 
-Il progetto e il gruppo di lavoro è sviluppato da **[Stefano Cecere](https://cecere.xyz)**, attivista dal 1996 ed esperto di innovazione, tecnologia e formazione.
-
 ---
+
+## Nomi e cognomi
+Il progetto e il gruppo di lavoro è sviluppato da **[Stefano Cecere](https://cecere.xyz)**, attivista dal 1996 ed esperto di innovazione, tecnologia e formazione.
 
 ## Contribuire a questo sito
 Se vuoi migliorare una pagina di questo sito, proporre nuovi contenuti, fare una correzione, benvenuti! 
@@ -52,8 +53,6 @@ Un po' più complesso di WikiPedia, ma meglio.
 
 Se prima vuoi che ci parliamo, [contattaci](./contatto.md)
 
----
- 
 ## Tecnologia
 Tutto il sito è stato pensato e sviluppato per essere duraturo nel tempo, semplice da gestire, gratuito e riproducibile. E' creato con soluzioni open-source.
 Tutti i contenuti sono scritti in [markdown](https://www.markdownguide.org/).  
