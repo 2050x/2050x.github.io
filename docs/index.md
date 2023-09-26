@@ -5,9 +5,8 @@ hide:
   - toc
 ᴴₒᴴₒᴴₒ: true
 ---
-# Spazio alla formazione
-
-Questo sito è un contributo di **attivisti volontari** per sviluppare la **Cittadinanza Attiva** e l'**Intelligenza Collettiva** facilitando l'**accesso**, il **coinvolgimento**, la **formazione** e l'**innovazione** di chi vorrebbe attivarsi a **migliorare il mondo**.
+# Spazio alla formazione 2050^x^
+Questo sito è un contributo di **attivisti volontari** per sviluppare la **Cittadinanza Attiva** e l'**Intelligenza Collettiva** facilitando l'**accesso**, il **coinvolgimento**, la **formazione** e l'**innovazione** di chi vorrebbe attivarsi a **migliorare il mondo**, possibilmente < 2050.
 
 <div class="grid cards" markdown>
 
