@@ -19,10 +19,10 @@ Siamo un gruppo di attivisti di area progressista, un po' nerd, un po' appassion
 1. un sincero interesse a far crescere la cittadinanza attiva in **qualità** e **struttura**
 2. preoccupazione per i personalismi e le auto-referenzialità
 3. disinteresse per la polemica e la nostalgia, **amore per il progresso e la critica costruttiva**
-4. **apertura al mondo 2050**, ovvero tutto l’ambito progressista confinante con il M5S, il PD senza Renzi, il mondo delle Sinistre non nostalgiche e dei volontari, la cultura illuminista e scientifica, i nuovi umanisti.
+4. **apertura al mondo 2050**, ovvero tutto l’ambito progressista confinante con il M5S, il PD senza Renzi, il mondo delle Sinistre non nostalgiche e dei volontari, la cultura illuminista e scientifica, i ricercatori e i nuovi umanisti.
 5. un minimo di serietà, di storia da attivisti e di **cultura politica**
-6. l'auto-educazione e il cercare di fare le cose per bene
-7. un minimo di leggerezza e amore per l'ozio creativo
+6. l'**auto-educazione** e il cercare di **fare le cose per bene**
+7. un minimo di **leggerezza**, **autoironia** e amore per l'**ozio creativo**
 
 I temi che interessano sono sopratutto:
 
