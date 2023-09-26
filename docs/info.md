@@ -13,7 +13,7 @@ Il 2050 è la data limite oltre la quale dobbiamo cambiare la direzione del mond
 crisi climatica, singolarità tecnologica, fallimento del neo-liberismo economico (con divergenza ricchissimi/poverissimi), tensioni geo-politiche, crisi esistenziali.  
 Il nome ce lo hanno ispirato la _Space X_ e i _TED^x^_, la versione delle famose conferenze innovatrici auto-organizzate dai cittadini. E poi fa molto **futuro** e molto **nerd** ;)
 
-## Il team 2050^x^
+## Cosa ci unisce (manifesto)
 Siamo un gruppo di attivisti di area progressista, un po' nerd, un po' appassionati, un po' pro-attivi, che condividono:
 
 1. un sincero interesse a far crescere la cittadinanza attiva in **qualità** e **struttura**
