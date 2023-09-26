@@ -35,7 +35,7 @@ I temi che interessano sono sopratutto:
 ---
 
 ## Nomi e cognomi
-Il progetto e il gruppo di lavoro è sviluppato da **[Stefano Cecere](https://cecere.xyz)**, attivista dal 1996 ed esperto di innovazione, tecnologia e formazione.
+Il progetto e il gruppo di lavoro è sviluppato da **[Stefano Cecere](https://linktr.ee/cecere)**, attivista dal 1996 ed esperto di innovazione, tecnologia e formazione.
 
 ## Contribuire a questo sito
 Se vuoi migliorare una pagina di questo sito, proporre nuovi contenuti, fare una correzione, benvenuti! 
