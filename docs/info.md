@@ -14,12 +14,12 @@ crisi climatica, singolarità tecnologica, fallimento del neo-liberismo economic
 Il nome ce lo hanno ispirato la _Space X_ e i _TED^x^_, la versione delle famose conferenze innovatrici auto-organizzate dai cittadini. E poi fa molto **futuro** e molto **nerd** ;)
 
 ## Il team 2050^x^
-Siamo un gruppo di attivisti di area progressista, un po' nerd, un po' appassionati, un po' pro-attiviti, che condividono:
+Siamo un gruppo di attivisti di area progressista, un po' nerd, un po' appassionati, un po' pro-attivi, che condividono:
 
 1. un sincero interesse a far crescere la cittadinanza attiva in **qualità** e **struttura**
 2. preoccupazione per i personalismi e le auto-referenzialità
 3. disinteresse per la polemica e la nostalgia, **amore per il progresso e la critica costruttiva**
-4. **apertura al mondo 2050**, ovvero tutto l’ambito progressista confinante con il M5S
+4. **apertura al mondo 2050**, ovvero tutto l’ambito progressista confinante con il M5S, il PD senza Renzi, il mondo delle Sinistre non nostalgiche e dei volontari, la cultura illuminista e scientifica, i nuovi umanisti.
 5. un minimo di serietà, di storia da attivisti e di **cultura politica**
 6. l'auto-educazione e il cercare di fare le cose per bene
 7. un minimo di leggerezza e amore per l'ozio attivo
