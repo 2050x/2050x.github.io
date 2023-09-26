@@ -3,7 +3,7 @@ site_url: https://2050x.org
 site_author: Stefano Cecere
 site_description: 2050x è uno spazio formativo di cittadini attivi che vogliono migliorarsi per migliorare il mondo, possibilmente < 2050
 
-copyright: <a href="/info/">chi siamo a gestire questo sito?</a> - <a href="/info/#licenza">licenza Creative Commons</a> - <a href="/contatto">newsletter</a>
+copyright: <a href="/info/">credits</a> - <a href="/info/#licenza">licenza Creative Commons</a> - <a href="/https://2042ed.org">associato a 2042ed</a>
 
 theme:
   name: material
@@ -86,8 +86,8 @@ extra:
   social:
     - icon: fontawesome/brands/telegram 
       link: https://t.me/org2050x
-    - icon: fontawesome/brands/facebook 
-      link: https://www.facebook.com/groups/2050x
+#    - icon: fontawesome/brands/facebook 
+#      link: https://www.facebook.com/groups/2050x
 #    - icon: fontawesome/brands/github 
 #      link: https://github.com/2050x
 #    - icon: fontawesome/brands/discord 
