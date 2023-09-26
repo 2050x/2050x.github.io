@@ -7,22 +7,21 @@ hide:
 ---
 # Spazio alla formazione
 
-Questo sito è un contributo di **attivisti volontari** del Movimento 5 Stelle per sviluppare la Cittadinanza Attiva e l'**Intelligenza Collettiva** facilitando l'**accesso**, il **coinvolgimento** e la **formazione** e l'**innovazione** di chi vorrebbe attivarsi a migliorare il mondo.
+Questo sito è un contributo di **attivisti volontari** del per sviluppare la Cittadinanza Attiva e l'**Intelligenza Collettiva** facilitando l'**accesso**, il **coinvolgimento** e la **formazione** e l'**innovazione** di chi vorrebbe attivarsi a migliorare il mondo.
 
 <div class="grid cards" markdown>
 
 - :fontawesome-regular-circle-play: **[Che fare?](partecipazione.md)**  
-un'introduzione generale
-- :fontawesome-solid-book: **[Regolamento dei Gruppi Territoriali](m5s/documenti/regolamento-gruppi-territoriali.md)**    
-versione leggibile online
+- :fontawesome-solid-book: **[Blog](blog/index.md)**  
+ultimi aggiornamenti
 - :fontawesome-solid-book: **[Manifesto della Parsimonia 2050](spazio/idee/manifesto-parsimonia.md)**    
 versione leggibile online
 - :fontawesome-solid-graduation-cap: **[Scuola e Manuale Attivista](scuola/index.md)**  
 per diventare attivisti livello pro :wink:
 - :star::star::star::star::star: **[Documenti del M5S](m5s/index.md)**  
 la Storia, lo Statuto e alcuni dati
-- :fontawesome-solid-earth-europe: **[Territori](territori/index.md)**  
-dove siamo? tutti i riferimenti regione per regione
+- :fontawesome-solid-earth-europe: **[Territori](m5s/territori/index.md)**  
+tutti i riferimenti regione per regione
 - :fontawesome-solid-brain: **[Spazio](spazio/index.md)**  
 per le idee, le risorse, i grandi e i piccoli temi
 - :fontawesome-solid-circle-info: **[Chi siamo](info.md)**  
@@ -30,18 +29,3 @@ Chi siamo? Come funziona questo sito? **Vuoi partecipare?**
 - :fontawesome-solid-envelope-open-text: **[Newsletter / :fontawesome-brands-telegram: Telegram](contatto.md)**  
 Seguici via Telegram o Newsletter
 </div>
-
----
-
-## Ultimi aggiornamenti
-
-**settembre 2023** - [hallo](blog/posts/scuola-fq.md)
-
-**marzo 2023**
-Stiamo aggiornando tutti i dati territoriali con i coordinatori provinciali e relativi canali di comunicazione
-
-**10 dicembre 2022**
-Molti documenti nella sezione Spazio (Manifesto della Parsimonia, la Dichiarazione universale Diritti Umani). Perfezionato il tema del sito, con un nuovo motore di ricerca molto potente e le date di modifica di ogni pagina. stay tuned! [Seguiteci per ricevere aggiornamenti o partecipare](contatto.md)
-
-**3 dicembre 2022**
-:loudspeaker: Primo rilascio pubblico di questo sito, con il Regolamento dei Gruppi Territoriali, parte dello Statuto, e una definizione di massima della struttura dei contenuti che andremo a elaborare nelle prossime settimane. 

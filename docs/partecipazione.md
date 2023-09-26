@@ -4,30 +4,32 @@ hide:
 ---
 # Che fare?
 
-- Cosa posso fare?
+- Cosa posso fare per migliorare il mondo?
 - Vorrei dare una mano...
 - Con chi posso fare una chiacchierata?
 
-Sono domande che si pongono tutti.. ehmm... magari. Mettiamo però se le ponesse.
+Sono domande che si pongono tutti.. ehmm... magari.
+Mettiamo però qualcuno se le ponesse.
 
-## 1. Iscriversi al Movimento 5 Stelle
-L'iscrizione è gratuita e si effettua tutto online.
-Bisogna solo:
+## 1. Studiare
+- formazione personale
+- cultura
+- cosa voglio veramente?
+- seguire personaggi ideali oppure simili
 
-- avere più di 16 anni
-- essere cittadino italiano oppure cittadino UE residente in Italia oppure cittadino straniero munito di permesso di soggiorno UE.
-- non essere aderente a partiti politici e/o associazioni in contrasto o concorrenti con quelli del M5S.
-- non aver subito l'esclusione e/o avere procedimenti giudiziari sotto il simbolo del M5S.
-- accettare lo Statuto, la [Carta dei Principi e dei Valori](m5s/documenti/statuto.md) ed il Codice Etico.
+## 2. Seguire
+trovare gli ambiti che più interessano e iniziare a seguirli.
 
-[Iscriversi qui: portale.movimento5stelle.eu/iscrizioni](https://portale.movimento5stelle.eu/iscrizioni)
 
-NB: ci potrebbero volere anche diverse settimane prima che l'iscrizione sia approvata.
+## 3. Partecipare
+- passare dal leggere allo scrivere
+- passare dal guardare ad andare
+- riunioni, manifestazioni
 
-## 2. Iscriversi ad un Gruppo Territoriale
-A novembre 2022 è stato pubblicato il nuovo [Regolamento dei Gruppi Territoriali](m5s/documenti/regolamento-gruppi-territoriali.md) e hanno iniziato a crearsi ovunque ci siano almeno 30 persone interessate. L'iscrizione è sempre gratuita ed avviene online attraverso la piattaforma. [Tutte le istruzioni sono qui](https://www.movimento5stelle.eu/nascono-i-gruppi-territoriali-del-movimento-5-stelle-aderisci-anche-tu/)
+## 4. Farsi trovare
+- una volta definita la propria identità di "attivista" ...
 
-## 3. Entrare in contatto
-
-Cercare nel proprio territorio i gruppi o i Portavoce più vicini: [mappa delel regioni](territori/index.md).
-
+## 5. Creare
+- materiali
+- eventi
+- nuove situazioni

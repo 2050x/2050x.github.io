@@ -1,7 +1,7 @@
-site_name: M5Sx Formazione Partecipazione Innovazione 
+site_name: Formazione Partecipazione Innovazione 
 site_url: https://2050x.org
 site_author: Stefano Cecere
-site_description: 2050x è uno spazio formativo di cittadini attivi del M5S che vogliono migliorarsi per migliorare il mondo, possibilmente < 2050
+site_description: 2050x è uno spazio formativo di cittadini attivi che vogliono migliorarsi per migliorare il mondo, possibilmente < 2050
 
 copyright: <a href="/info/">chi siamo a gestire questo bellissimo sito?</a> - <a href="/info/#licenza">licenza Creative Commons</a> - <a href="/contatto">newsletter</a>
 
@@ -63,6 +63,7 @@ plugins:
   - blog:
       post_url_date_format: yyyy
       post_url_format: "{date}/{slug}"
+      post_readtime: false
   - git-revision-date-localized:
       enabled: !ENV [CI, false]
       type: date

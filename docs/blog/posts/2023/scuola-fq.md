@@ -2,8 +2,6 @@
 draft: false 
 date: 2023-09-21
 slug: scuola-fq
-tags:
-  - event
 ---
 
 # Scuola di Cittadinanza del Fatto Quotidiano
