@@ -1,6 +1,8 @@
 ---
 draft: false 
 date: 2022-12-10
+categories:
+ - sito
 ---
 
 # Documenti
