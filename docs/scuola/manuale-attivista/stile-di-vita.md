@@ -1,15 +1,8 @@
 # Stile di vita
-
-## Gestire lo stress
-
-## Discernere tra percezione e interpretazione
-
-## Aver chiare le priorità
+Quello che facciamo e come ci comportiamo influisce nella società.
+Banalmente noi siamo un atomo della società e sarebbe assurdo pretendere da altri comportamenti che non abbiamo noi stessi.
 
 ## Cosa è la violenza?
-
-## Imparare a meditare
-10 minuti al giorno
 
 ## Dieta Vegetariana
 una dieta prevalentemente vegetariana è già un buon compromesso, un buon inizio.
@@ -17,3 +10,6 @@ una dieta prevalentemente vegetariana è già un buon compromesso, un buon inizi
 ## Non acquistare cose inutili
 
 ## Preferire prodotti locali e a imballo contenuto
+
+## Regola morale
+"tratta gli altri come vorresti essere trattato"
