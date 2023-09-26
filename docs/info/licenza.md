@@ -1,6 +1,6 @@
 # Licenza
 
-Tutti i contenuti di questo sito, salvo i documenti ufficiali del M5S, sono **© Stefano Cecere e Team M5S++** e rilasciati sotto licenza [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0)
+Tutti i contenuti di questo sito, salvo i documenti ufficiali del M5S, sono **© Stefano Cecere e Team 2050x** e rilasciati sotto licenza [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 **Cosa significa?**
 Che puoi liberamente copiare o distribuire, anche modificare, basta che citi esplicitamente l'autore originale e questo sito e che non ne fai usi commerciali, altrimenti devi chiedere il permesso.
