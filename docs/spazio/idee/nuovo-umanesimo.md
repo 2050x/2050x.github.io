@@ -5,7 +5,7 @@ description: Riportare la persona, l'essere umano, al centro delle attenzioni de
 
 Ultimamente si sente sempre più parlare di Umanesimo / Nuovo Umanesimo, inteso come il riportare il cittadino, l'essere umano, la persona al centro delle attenzioni della politica, dell'economia, della società, come una delle più interessanti soluzioni alla crisi contemporanea.  
 Ne parlano in molti sebbene non tanti facciano.  
-Qui riportiamo una definizione del Nuovo Umanesimo fatta dal filosofo argentino [Mario Rodriguez Cobos](../personaggi/silo.md), che negli anni '60 fondò il Movimento Umanista.
+Qui riportiamo una definizione del Nuovo Umanesimo fatta dal filosofo argentino [Mario Rodriguez Cobos](../riferimenti/personaggi/silo.md), che negli anni '60 fondò il Movimento Umanista.
 
 ## Le idee del Nuovo Umanesimo
 

@@ -1,5 +1,5 @@
 ---
-title: Giornali e Libri consigliati
+title: Giornali e Libri
 ---
 
 ## Giornali

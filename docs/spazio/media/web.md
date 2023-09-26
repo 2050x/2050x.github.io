@@ -1,5 +1,5 @@
 ---
-title: Siti web e canali consigliati
+title: Siti web e canali
 ---
 
 ## Video / TV

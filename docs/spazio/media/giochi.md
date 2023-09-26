@@ -1,5 +1,5 @@
 ---
-title: Giochi consigliati
+title: Giochi
 ---
 
 ## 2042ed
