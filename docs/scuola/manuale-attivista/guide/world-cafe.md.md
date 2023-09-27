@@ -47,7 +47,7 @@ Limiti:
 4. Incoraggiare il contributo di tutti
 5. Collegare i diversi punti di vista
 6. Ascoltare per cogliere intuizioni e riflessioni profonde
-7. ﻿﻿Raccogliere e condividere i risultati
+7. Raccogliere e condividere i risultati
 
 
 ## Approfondimenti

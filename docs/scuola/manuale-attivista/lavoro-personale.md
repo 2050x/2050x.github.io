@@ -1,3 +1,9 @@
+---
+title: Lavoro personale
+---
+
+> Ci sono cose che dobbiamo fare noi con noi stessi
+
 # Lavoro personale
 
 Non può esserci trasformazione sociale senza sviluppo personale.

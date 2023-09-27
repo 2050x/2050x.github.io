@@ -1,3 +1,9 @@
+---
+title: Stile di vita
+---
+
+> Analizziamo il nostro comportamento
+
 # Stile di vita
 Quello che facciamo e come ci comportiamo influisce nella società.
 Banalmente noi siamo un atomo della società e sarebbe assurdo pretendere da altri comportamenti che non abbiamo noi stessi.

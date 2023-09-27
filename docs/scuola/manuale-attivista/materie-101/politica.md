@@ -1,3 +1,6 @@
+---
+title: Politica
+---
 # Politica
 E' la più alta forma di progetto collettivo che abbiamo.
 

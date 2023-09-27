@@ -1,3 +1,8 @@
+---
+title: Attivismo
+---
+
+> Cosa significa essere Attivisti?
 
 Innanzitutto distinguiamo 4 livelli di partecipazione:
 
