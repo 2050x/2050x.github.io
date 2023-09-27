@@ -73,6 +73,11 @@ plugins:
       enable_creation_date: false
       exclude:
         - index.md
+  - social:
+#      cards: !ENV [CI, false]
+      cards_color:
+        fill: "#14608E"
+        text: "#FFFFFF"
 
 repo_url: https://github.com/2050x/2050x.org
 edit_uri: edit/main/docs/
