@@ -6,21 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://2050x.org/contatto/</loc>
-         <lastmod>2023-09-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://2050x.org/info/</loc>
-         <lastmod>2023-09-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://2050x.org/partecipazione/</loc>
-         <lastmod>2023-09-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://2050x.org/blog/</loc>
          <lastmod>2023-09-28</lastmod>
          <changefreq>daily</changefreq>
@@ -57,6 +42,16 @@
     </url>
     <url>
          <loc>https://2050x.org/blog/2023/territori-m5s/</loc>
+         <lastmod>2023-09-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://2050x.org/info/</loc>
+         <lastmod>2023-09-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://2050x.org/info/contatto/</loc>
          <lastmod>2023-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
