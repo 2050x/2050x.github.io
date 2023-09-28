@@ -1,9 +1,7 @@
 nav:
   - index.md
   - News: blog
-  - info.md
-  - partecipazione.md
-  - scuola
-  - spazio
-  - m5s
-  - contatto.md
+  - Scuola: scuola
+  - Attivismo: spazio
+  - Movimento: m5s
+  - Informazioni: info

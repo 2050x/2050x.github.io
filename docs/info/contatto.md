@@ -1,7 +1,5 @@
 ---
 title: Contatto
-hide:
-  - navigation
 ---
 ## Rimaniamo in contatto
 Se invece vuoi giusto iniziare a seguire le nostre attività:
