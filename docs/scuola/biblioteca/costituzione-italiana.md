@@ -14,6 +14,7 @@ updated: 2023-03-22
 - 20 aprile 2012: Art. 81 - introduzione del principio del pareggio di bilancio
 - 2 ottobre 2007: Art. 27 - abolizione della pena di morte (Al quarto comma si sopprimono queste parole «, se non nei casi previsti dalle  leggi  militari  di  guerra»)
 - 30 maggio 2003: Art. 51 - Pari Opportunità, si aggiunge "A tale fine la Repubblica promuove con appositi provvedimenti le pari opportunità tra donne e uomini"
+- 18 ottobre 2001: Modifiche al titolo V "Autonomie Regionali e Decentramento" ([vedi](https://www.parlamento.it/parlam/leggi/01003lc.htm))
 - 23 gennaio 2001 Art. 56 e 57 - definizione 18 parlamentari estero (12 alla Camera e 6 al Senato)
 - 17 gennaio 2000: Art. 48 - istituzione della Circoscrizione Estero (Governo D'Alema)
 
