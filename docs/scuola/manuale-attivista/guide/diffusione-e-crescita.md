@@ -39,16 +39,17 @@ persone a cui interessa il nostro progetto e che sono interessate a saperne di p
 (Se poi un giorno uno di questi simpatizzanti vorrà fare qualcosa di più, si iscriverà al nostro progetto, al nostro gruppo territoriale, ed entrerà a fare parte degli associati attivi, che avranno altri strumenti e ambiti di comunicazione e collaborazione)
 
 ## Strumenti di contatto
-Vado subito alla proposta pratica: **predisporre una newsletter e un canale WhatsApp dove mandare aggiornamenti settimanali.**
+Vado subito alla proposta pratica: **predisporre una newsletter e un canale Telegram dove mandare aggiornamenti settimanali.**
 
-**Raccomandazione**: non una mailing list, non una pagina facebook, tantomeno un gruppo o ancora peggio non un gruppo whatsapp ... sarebbero il primo passo verso nuovi problemi. dopo spiego perché.
+**Raccomandazione**: non una mailing list, non una pagina facebook, tantomeno un gruppo o ancora peggio un gruppo whatsapp ... sarebbero il primo passo verso nuovi problemi. dopo spiego perché.
 
-Dobbiamo avere nel nostro gruppo una grande preoccupazione, quasi un reparto apposta di persone, che si occupi tutte le settimane di mandare un'informazione a tutti i nostri simpatizzanti. e per questo la newsletter (ovvero una email inviata ad un elenco di iscritti via email) e un canale whatsapp (dove solo gli admin scrivono) sono gli strumenti più semplici, efficaci, economici.
+Dobbiamo avere nel nostro gruppo una grande preoccupazione, quasi un reparto apposta di persone, che si occupi tutte le settimane di mandare un'informazione a tutti i nostri simpatizzanti. e per questo la newsletter (ovvero una email inviata ad un elenco di iscritti via email) e un canale Telegram (dove solo gli admin scrivono) sono gli strumenti più semplici, efficaci, economici.
 
-Perché non un gruppo whatsapp: 
+Perché non un gruppo Telegram: 
 
 1. per ragioni di privacy non vogliamo che tutti vedano i numeri di telefono degli altri
 2. il canale deve essere solo informativo, e "leggero".. un messaggio alla settimana, o poco più, è un buon compromesso
+3. su Telegram e WhatsApp, leggere [qui](./usare-bene-i-social-media.md)
 
 Perché non una pagina social:
 
@@ -88,17 +89,15 @@ Due cose sono prioritarie da comunicare:
 Se si ha energia si possono riportare informazioni riguardanti le attività fuori dal proprio contesto territoriale.
 O eventualmente contenuti formativi, ovvero che approfondiscono le idee di base, o aiutano a imparare qualcosa di nuovo.
 
-## Canale WhatsApp
-Premettiamo che l'ottimo sarebbe un canale Telegram, ma abbiamo visto una certa reticenza da parte anche dei più attivisti ad adottare uno strumento nuovo.
-
-Per fortuna pochi mesi fa WhatsApp ha rilasciato i *canali* (che non sono i Gruppi, NB) che si avvicinano ai canali di Telegram, e quindi possiamo adottarli.
+## Canale Telegram
+Nonostante Telegram sia meno diffuso di WhatsApp, è ancora molto meglio per un discorso di privacy (non condivide i numeri di telefono di tutti gli iscritti ad un canale e permette amministratori multipli)
 
 Anche qui, conviene che il canale sia creato dal coordinatore, e poi dato in gestione agli admin di turno per inviare notizie (l'informativa settimanale, più eventualmente altre comunicazioni urgenti).
 
-Teniamo conto che WhatsApp è lo strumento più intimo, personale. Non dobbiamo abusarne se no uno inizia a mettere il canale senza notifiche, e poi non lo guarda più.
+Teniamo conto che Telegram, come WhatsApp è lo strumento più intimo, personale. Non dobbiamo abusarne se no uno inizia a mettere il canale senza notifiche, e poi non lo guarda più.
 
 ## Social
-Una volta impostata la newsletter ed il canale whatsapp, poi potrebbe fare comodo qualche altro canale (Pagina Instagram innanzitutto, Pagina Facebook, Canale Telegram, X/Twitter), ma sono secondari e da valutare in funzione delle risorse che si hanno.
+Una volta impostata la newsletter ed il canale Telegram, poi potrebbe fare comodo qualche altro canale (Pagina Instagram innanzitutto, Pagina Facebook, Canale WhatsApp, X/Twitter), ma sono secondari e da valutare in funzione delle risorse che si hanno.
 
 ## Informazione interna
 Questa informazione settimanale è sicuramente utile anche per gli attivisti già attivi, prché fornisce un canale di informazione su quello che succede.
