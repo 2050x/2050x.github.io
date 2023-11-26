@@ -76,6 +76,17 @@ Chiedete al vostro coordinatore provinciale di aprirne una col nome del vostro g
 > E' importante che il proprietario di tutti i canali di comunicazione non siano intestati a personaggi del momento, che possono cambiare nel corso del tempo. Abbiamo già avuto troppi casi di canali che non erano stati "tramandati" ai successori, o vogliamo che tutto rimani intestato al Movimento e non alle singole persone.
 > Se non accettate questo compromesso, potremo avere dei problemi...
 
+## Cosa scriverci
+L'accento deve essere messo sulla partecipazione: a cosa puoi partecipare? cosa puoi fare?
+
+Due cose sono prioritarie da comunicare:
+
+1. cosa si è fatto (basta un accenno, una foto) per dare memoria al gruppo e far vedere a chi non c'era cosa ha fatto il gruppo
+2. cosa si farà (un mini calendario dei prossimi eventi)
+
+Se si ha energia si possono riportare informazioni riguardanti le attività fuori dal proprio contesto territoriale.
+O eventualmente contenuti formativi, ovvero che approfondiscono le idee di base, o aiutano a imparare qualcosa di nuovo.
+
 ## Canale WhatsApp
 Premettiamo che l'ottimo sarebbe un canale Telegram, ma abbiamo visto una certa reticenza da parte anche dei più attivisti ad adottare uno strumento nuovo.
 
@@ -84,3 +95,9 @@ Per fortuna pochi mesi fa WhatsApp ha rilasciato i *canali* (che non sono i Grup
 Anche qui, conviene che il canale sia creato dal coordinatore, e poi dato in gestione agli admin di turno per inviare notizie (l'informativa settimanale, più eventualmente altre comunicazioni urgenti).
 
 Teniamo conto che WhatsApp è lo strumento più intimo, personale. Non dobbiamo abusarne se no uno inizia a mettere il canale senza notifiche, e poi non lo guarda più.
+
+## Social
+Una volta impostata la newsletter ed il canale whatsapp, poi potrebbe fare comodo qualche altro canale (Pagina Instagram innanzitutto, Pagina Facebook, Canale Telegram, X/Twitter), ma sono secondari e da valutare in funzione delle risorse che si hanno.
+
+## Informazione interna
+Questa informazione settimanale è sicuramente utile anche per gli attivisti già attivi, prché fornisce un canale di informazione su quello che succede.

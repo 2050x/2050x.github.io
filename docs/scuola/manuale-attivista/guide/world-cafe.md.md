@@ -36,8 +36,8 @@ Vantaggi della tecnica:
 
 Limiti:
 
--   Necessita di spazi e attrezzature adattate allo scopo
--   Può arrivare a impegnare un elevato numero di facilitatori.
+- Necessita di spazi e attrezzature adattate allo scopo
+- Può arrivare a impegnare un elevato numero di facilitatori.
 
 ## Principi guida
 
@@ -48,7 +48,6 @@ Limiti:
 5. Collegare i diversi punti di vista
 6. Ascoltare per cogliere intuizioni e riflessioni profonde
 7. Raccogliere e condividere i risultati
-
 
 ## Approfondimenti
 <https://theworldcafe.com>
