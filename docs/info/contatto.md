@@ -17,6 +17,3 @@ Se invece vuoi giusto iniziare a seguire le nostre attività:
 
 [Newsletter 2042](https://2042.substack.com)
 <iframe src="https://2042.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
-[Newsletter M5S InForma](https://m5sinforma.substack.com)
-<iframe src="https://m5sinforma.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
