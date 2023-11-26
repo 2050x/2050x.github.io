@@ -2,13 +2,6 @@
 title: Diffusione e Crescita
 date: 2023-02-12
 updated: 2023-11-26
-type: 
-categories: 
-tags: 
-description: 
-permalink: 
-rating: 
-publish: 
 ---
 # Diffusione e crescita
 

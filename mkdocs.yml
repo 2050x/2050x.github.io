@@ -7,7 +7,7 @@ copyright: <a href="/info/contatto">Contatti</a> - <a href="/info/">Credits</a> 
 
 theme:
   name: material
-  custom_dir: overrides
+  custom_dir: docs/overrides
   language: it
   logo: assets/logo.png
   favicon: assets/favicon.png
@@ -49,8 +49,8 @@ markdown_extensions:
   - def_list
   - md_in_html
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 # Plugins
 plugins:
@@ -70,14 +70,14 @@ plugins:
       enabled: !ENV [CI, true]
       type: date
       locale: it
-      enable_creation_date: true
+      enable_creation_date: false
       exclude:
         - index.md
   - social:
-#      cards: !ENV [CI, false]
-      cards_color:
-        fill: "#14608E"
-        text: "#FFFFFF"
+      cards: !ENV [CI, false]
+      cards_layout_options:
+        background_color: "#14608E"
+        color: "#FFFFFF"
 
 repo_url: https://github.com/2050x/2050x.org
 edit_uri: edit/main/docs/
