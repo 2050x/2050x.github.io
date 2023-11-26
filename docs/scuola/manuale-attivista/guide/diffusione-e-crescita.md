@@ -1,5 +1,6 @@
 ---
 title: Diffusione e Crescita
+description: Alcuni suggerimenti su come organizzare i canali di diffusione del proprio gruppo di attivivisti con informazione regolare e coinvolgimento.
 date: 2023-02-12
 updated: 2023-11-26
 ---
