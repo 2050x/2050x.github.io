@@ -28,7 +28,7 @@ Anzi: una buona energia deve essere messa proprio nella comunicazione, perché o
 
 Vedremo dopo come fare una buona comunicazione, prima dobbiamo aver chiaro cosa andiamo a fare nei nostri eventi:
 
-**La priorità è tornare a casa da una qualsiasi attività con qualche indirizzo email o contatto in più. Fosse anche uno solo, il numero di contatti è il primo indicatore di cui preoccuparci.** 
+**La priorità è tornare a casa da una qualsiasi attività con qualche indirizzo email o contatto in più. Fosse anche uno solo, il numero di contatti è il primo indicatore di cui preoccuparci.**
 
 Per questo, prima di pensare e organizzare una qualsiasi attività dobbiamo aver preparato uno strumento o un modo per tenere insieme le persone che andremo ad incontrare e conoscere.
 
@@ -40,15 +40,14 @@ persone a cui interessa il nostro progetto e che sono interessate a saperne di p
 ## Strumenti di contatto
 Vado subito alla proposta pratica: **predisporre una newsletter e un canale WhatsApp dove mandare aggiornamenti settimanali.**
 
-Raccomandazione: non una mailing list, non una pagina facebook (tantomeno un gruppo). ancora peggio non un gruppo whatsapp.
-Sarebbero il primo passo verso l'autodistruzione (dopo spiego perché).
+**Raccomandazione**: non una mailing list, non una pagina facebook, tantomeno un gruppo o ancora peggio non un gruppo whatsapp ... sarebbero il primo passo verso nuovi problemi. dopo spiego perché.
 
 Dobbiamo avere nel nostro gruppo una grande preoccupazione, quasi un reparto apposta di persone, che si occupi tutte le settimane di mandare un'informazione a tutti i nostri simpatizzanti. e per questo la newsletter (ovvero una email inviata ad un elenco di iscritti via email) e un canale whatsapp (dove solo gli admin scrivono) sono gli strumenti più semplici, efficaci, economici.
 
 Perché non un gruppo whatsapp: 
 
 1. per ragioni di privacy non vogliamo che tutti vedano i numeri di telefono degli altri
-2.  il canale deve essere solo informativo, e "leggero".. un messaggio alla settimana, o poco più, è un buon compromesso
+2. il canale deve essere solo informativo, e "leggero".. un messaggio alla settimana, o poco più, è un buon compromesso
 
 Perché non una pagina social:
 
@@ -59,7 +58,7 @@ E lasciano la libertà ai destinatari di deiscriversi o modificare il modo di ri
 
 ## Newsletter: usiamo substack.com
 
-Se guardate la newsletter che ho gestito per diversi mesi: https://m5sinforma.substack.com/
+Se guardate la newsletter che ho gestito per diversi mesi: [https://m5sinforma.substack.com/](https://m5sinforma.substack.com/)
 questo è un buon esempio di piattaforma e di comunicazione.
 
 Creare una newsletter su substack è gratuito e veloce (e poi lo farei io a nome dell'account ufficiale del coordinamento provinciale, quindi darei tutto preimpostato) e la cosa fantastica è che funziona sia da newsletter che da blog/sito. Così uno che arriva dopo può accedere a tutte le informazioni precedenti.
@@ -69,7 +68,7 @@ La scrittura dei post è semplicissima, quasi più facile che non usare un Googl
 Preparerò gli eventi con l'indirizzo della newsletter ben in evidenza nei materiali, magari anche con un QR code così uno inquadra e si iscrive al volo, entrando automaticamente (e _volontariamente_) nel giro di contatti.
 Posso poi ovviamente avere diversi collaboratori per scrivere e gestire i post da inviare. Insomma è una piattaforma che al momento (novembre 2023) è la migliore in assoluto.
 
-Una volta che ho scritto e pubblicato un post (che sarà stato automaticamente inviato per email a tutti) posso condividerlo su tutti i social che voglio: facebook, instagram, whatsapp, telegram.. c'è una funzione apposta, oppure basta copiare il suo indirizzo, ad esempio: https://m5sinforma.substack.com/p/salario-minimo-domenica-8-si-firma
+Una volta che ho scritto e pubblicato un post (che sarà stato automaticamente inviato per email a tutti) posso condividerlo su tutti i social che voglio: facebook, instagram, whatsapp, telegram.. c'è una funzione apposta, oppure basta copiare il suo indirizzo, ad esempio: [https://m5sinforma.substack.com/p/salario-minimo-domenica-8-si-firma](https://m5sinforma.substack.com/p/salario-minimo-domenica-8-si-firma)
 
 **Come fare per aprire una newsletter su Substack?**
 Chiedete al vostro coordinatore provinciale di aprirne una col nome del vostro gruppo territoriale (o area territoriale, prevedendo che in futuro possano nascere diversi gruppi territoriali) e poi sarete aggiunti come admin.
