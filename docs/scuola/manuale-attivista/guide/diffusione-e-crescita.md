@@ -74,6 +74,9 @@ Potrete poi ovviamente avere diversi collaboratori per scrivere e gestire i post
 
 Una volta che avrete scritto e pubblicato un post (che sarà stato automaticamente inviato per email a tutti) potrete condividerlo su tutti i social: facebook, instagram, whatsapp, telegram.. c'è una funzione apposta, oppure basta copiare il suo indirizzo, ad esempio: [https://m5sinforma.substack.com/p/salario-minimo-domenica-8-si-firma](https://m5sinforma.substack.com/p/salario-minimo-domenica-8-si-firma)
 
+> NOTA: **perché una newsletter e non una mailing list?**
+> perché la mailing list prevede che tutti possano scrivere a tutti. e non è quello che si vuole per i contatti dei simpatizzanti. La newsletter è un canale unidirezione, a cui i riceventi possono però rispondere via email o con i commenti offerti dalla piattaforma
+
 **Come fare per aprire una newsletter su Substack?**
 Chiedete al vostro coordinatore provinciale di aprirne una col nome del vostro gruppo territoriale (o area territoriale, prevedendo che in futuro possano nascere diversi gruppi territoriali) e poi sarete aggiunti come admin.
 
