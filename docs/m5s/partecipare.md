@@ -1,5 +1,3 @@
----
----
 # Come partecipare al M5S?
 
 ## 1. Iscriversi al Movimento 5 Stelle
@@ -22,4 +20,3 @@ A novembre 2022 è stato pubblicato il nuovo [Regolamento dei Gruppi Territorial
 ## 3. Entrare in contatto
 
 Cercare nel proprio territorio i gruppi o i Portavoce più vicini: [mappa delle regioni](territori/index.md).
-
