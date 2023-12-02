@@ -79,7 +79,7 @@ plugins:
         background_color: "#14608E"
         color: "#FFFFFF"
 
-repo_url: https://github.com/2050x/2050x
+repo_url: https://github.com/2050x/2050x.github.io
 edit_uri: edit/main/docs/
 repo_name: GitHub/2050x
 
