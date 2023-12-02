@@ -79,9 +79,9 @@ plugins:
         background_color: "#14608E"
         color: "#FFFFFF"
 
-repo_url: https://github.com/2050x/2050x.org
+repo_url: https://github.com/2050x/2050x
 edit_uri: edit/main/docs/
-repo_name: GitHub/2050x.org
+repo_name: GitHub/2050x
 
 extra_css:
   - assets/stylesheets/extra.css
