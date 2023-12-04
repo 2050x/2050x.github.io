@@ -138,7 +138,9 @@ La partecipazione alle riunioni è ammessa con modalità telematica, attraverso 
 2. intervenire in tempo reale nella discussione
 3. scambiare documenti
 
-L’Assemblea delibera a maggioranza dei voti espressi, allorquando siano presenti almeno la maggioranza assoluta degli Iscritti al Gruppo.
+L’Assemblea in prima convocazione è validamente costituita con la partecipazione della maggioranza degli aventi diritto e delibera con la maggioranza dei presenti. L’Assemblea in seconda convocazione è validamente costituita qualsiasi sia il numero degli intervenuti e delibera con la maggioranza dei presenti.
+
+Il Comitato per i rapporti territoriali può deliberare l’esclusione da un gruppo territoriale dell’iscritto che per sei mesi non partecipi, non offra al gruppo il proprio contributo di idee e progetti ovvero non partecipi alle varie iniziative del gruppo stesso, senza fornire una valida giustificazione a mezzo e-mail al Rappresentante del gruppo territoriale e in copia in email al Comitato per i rapporti territoriali.
 
 Per ciascuna riunione assembleare è redatto e conservato un verbale a cura del Rappresentante.
 
