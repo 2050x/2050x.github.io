@@ -1,14 +1,31 @@
 ---
 title: Contatto
 ---
-## Rimaniamo in contatto
-Se invece vuoi giusto iniziare a seguire le nostre attività:
+## Livello 1: Rimaniamo in contatto
+Se invece vuoi giusto iniziare a seguire le nostre attività ti consigliamo sicuramente l'iscrizione alla newsletter, e poi al canale Telegram
+
+<div class="grid cards" markdown>
+
+- :fontawesome-brands-telegram: **[Newsletter](https://m5sinforma.substack.com)**  
+- :fontawesome-brands-telegram: **[Canale Telegram](https://t.me/org2050x)**
+- :fontawesome-brands-telegram: **[Rassegna stampa quotidiana per attivisti](https://t.me/m5s_news)**  
+
+</div>
+
+## Livello 2: Partecipa
+Qui possiamo interagire:
 
 <div class="grid cards" markdown>
 
 - :fontawesome-brands-telegram: **[Gruppo Comunità Telegram](https://t.me/m5sinforma)**  
 - :fontawesome-brands-facebook: **[Gruppo Facebook](https://www.facebook.com/groups/2050x)**
-- :fontawesome-brands-telegram: **[Canale Telegram](https://t.me/org2050x)**
+</div>
+
+## Livello 3: Oltre
+Per questioni più avanzate, scrivi o entra in GitHub
+
+<div class="grid cards" markdown>
+
 - :fontawesome-solid-envelope-open-text: **[Email](mailto:stefano.cecere@gmail.com)**  
 - :fontawesome-brands-github: **[GitHub](https://github.com/2050x)**  
 
