@@ -2,7 +2,7 @@
 title: Contatto
 ---
 ## Livello 1: Rimaniamo in contatto
-Se invece vuoi giusto iniziare a seguire le nostre attività ti consigliamo sicuramente l'iscrizione alla newsletter, e poi al canale Telegram
+Se vuoi giusto iniziare a seguire le nostre attività ti consigliamo sicuramente l'iscrizione alla newsletter, e poi al canale Telegram di 2050x e sopratutto alla Rassegna Stampa quotidiana.
 
 <div class="grid cards" markdown>
 

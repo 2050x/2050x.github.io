@@ -67,7 +67,7 @@ plugins:
       post_url_format: "{date}/{slug}"
       post_readtime: false
   - git-revision-date-localized:
-      enabled: !ENV [CI, true]
+      enabled: !ENV [CI, false]
       type: date
       locale: it
       enable_creation_date: false
