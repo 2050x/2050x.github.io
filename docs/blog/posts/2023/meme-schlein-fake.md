@@ -13,6 +13,8 @@ tags:
 
 ![](../../../assets/images/blog/schlein-fake.jpg)
 
+<!-- more -->
+
 oggi ho visto la famosa perifrastica della #Schlein troppe volte.
 non ci voleva molto intuire da soli che era #fake.
 
@@ -37,6 +39,3 @@ Come supportare un processo di cambiamento e supportare validi leader, ora che c
 NB: fossi stato alla comunicazione del M5S avrei subito diramato, magari nei circuiti interni, una nota che quel meme era un fake, spiegandolo e invitando a eliminare ogni pubblicazione.
 
 Ma posso solo scrivere in questo piccolo sito e così sia.
-
-
-

@@ -3,6 +3,8 @@ date: 2022-12-03
 slug: inizio
 categories:
  - sito
+authors: 
+ - stefano
 ---
 
 # Nascita

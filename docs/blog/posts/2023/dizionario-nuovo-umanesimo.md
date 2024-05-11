@@ -4,6 +4,8 @@ draft: false
 date: 2023-09-27
 categories:
  - sito
+authors: 
+ - stefano
 ---
 
 E' online da oggi un importante documento storico, utile per tutti gli attivisti (anche quelli che magari non si ritrovano nella definizione di "nuovo umanesimo"):
