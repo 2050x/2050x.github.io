@@ -1,5 +1,5 @@
 ---
-title: Programma Elettorale Europee 2024
+title: Programma Europee 2024
 description: una versione accessibile del programma elettorale Elezioni Europee 2024
 date: 2024-05-14
 ---
