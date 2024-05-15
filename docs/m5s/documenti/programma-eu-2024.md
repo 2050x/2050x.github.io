@@ -1,9 +1,9 @@
 ---
-title: Programma Europee 2024
-description: una versione leggibile online del progrmma definitivo per le Elezioni Europee 2024
+title: Programma Elettorale Europee 2024
+description: una versione accessibile del programma elettorale Elezioni Europee 2024
 date: 2024-05-14
 ---
-# Programma Europee 2024
+# Programma Elettorale Europee 2024
 > Premessa: questa è la conversione fedele del documento originale in PDF che è [qui](https://www.movimento5stelle.eu/Programma-elettorale-europee-2024.pdf)
 
 ## SINTESI
