@@ -3,10 +3,9 @@ title: Statuto del Movimento 5 Stelle
 description: una versione leggibile online dello Statuto del Movimento 5 Stelle
 date: 2022-03-11
 ---
-# Statuto del Movimento 5 Stelle
+# Statuto del Movimento 5 Stelle
 
 > Premessa: questa è la conversione fedele del documento originale in PDF che è [qui](https://www.movimento5stelle.eu/wp-content/uploads/2022/04/STATUTO-M5S-in-vigore-dal-11-marzo-2022.pdf)
-
 
 ## Art 1 - Denominazione, sede e simbolo
 
@@ -173,7 +172,6 @@ La parte della remunerazione percepita eccedente la misura indicata nel Regolame
 
 Gli Iscritti eletti quali parlamentari italiani e consiglieri regionali avranno diritto a trattenere, in aggiunta alla remunerazione percepita non eccedente la misura indicata nel Regolamento, ogni voce di rimborso prevista dai regolamenti dell’assemblea elettiva di appartenenza nei modi e nelle forme che saranno stabilite nel Regolamento sopra menzionato.
 
-
 ## Art. 6 - Gruppi territoriali
 
 a) Il MoVimento 5 Stelle promuove la partecipazione attiva degli Iscritti alla vita politica interna dell’Associazione. A tale fine, gli Iscritti al MoVimento 5 Stelle, in numero minimo di 30 (trenta), possono costituire, autorizzati dal Comitato per i rapporti territoriali, di concerto con il Presidente, sentiti i competenti Coordinatori territoriali, ove designati, Gruppi territoriali di scambio e di confronto sulla vita politica interna del MoVimento, legati a singole realtà comunali o infra-comunali o, nel caso di Comuni più piccoli, intercomunali e, inoltre, Gruppi territoriali all’estero dedicati agli iscritti al Movimento 5 Stelle iscritti all’Aire o comunque residenti all’estero. Una volta costituito un Gruppo territoriale, ad esso possono successivamente aderire altri Iscritti.
@@ -301,9 +299,9 @@ presente Statuto, lo scioglimento dell’Associazione o la devoluzione del patri
 9. esercitare ogni altra funzione ad essa attribuita dal presente Statuto.
 
 c) L’Assemblea è convocata in luogo fisico o su piattaforma informatica on line almeno una volta l’anno dal Presidente ovvero, in caso di suo impedimento, dal Vicepresidente vicario, ovvero, in caso di inerzia di questi ultimi, dal Presidente del Comitato di Garanzia. È altresì convocata qualora lo richieda almeno 1/3 (un terzo) degli Iscritti aventi diritto di voto.  
-L’Assemblea è convocata con avviso sul sito internet ufficiale del MoVimento 5 Stelle, con preavviso di almeno 3 (tre) giorni ovvero almeno 24 (ventiquattro) ore in caso di urgenza. Nell’avviso sono indicati gli argomenti oggetto della votazione, il luogo fisico e/o la piattaforma informatica on line ove si svolgerà, le modalità di voto e, in caso di Assemblea on line, anche i termini entro i quali ciascun partecipante all’Assemblea può far pervenire eventuali osservazioni e/o considerazioni e/o opinioni come infra definiti, la data e l'orario iniziale e finale della votazione. Tali disposizioni si applicano anche alla consultazione in rete degli Iscritti nei casi di cui all’art. 7, lett. a), b) e c) del presente Statuto.   
+L’Assemblea è convocata con avviso sul sito internet ufficiale del MoVimento 5 Stelle, con preavviso di almeno 3 (tre) giorni ovvero almeno 24 (ventiquattro) ore in caso di urgenza. Nell’avviso sono indicati gli argomenti oggetto della votazione, il luogo fisico e/o la piattaforma informatica on line ove si svolgerà, le modalità di voto e, in caso di Assemblea on line, anche i termini entro i quali ciascun partecipante all’Assemblea può far pervenire eventuali osservazioni e/o considerazioni e/o opinioni come infra definiti, la data e l'orario iniziale e finale della votazione. Tali disposizioni si applicano anche alla consultazione in rete degli Iscritti nei casi di cui all’art. 7, lett. a), b) e c) del presente Statuto.  
 Ricorrendo eccezionali e motivati casi di urgenza i termini di cui sopra, nonché la durata della votazione on line, su proposta del Presidente e parere favorevole del Comitato di Garanzia, possono essere ulteriormente ridotti.  
-Il preavviso di convocazione è di almeno 8 (otto) giorni per le votazioni aventi ad oggetto la modifica dello Statuto (ivi incluse fusioni, scissioni o trasformazioni), lo scioglimento dell’Associazione o la devoluzione del patrimonio, la sfiducia al Presidente, al Garante, al Comitato di Garanzia, o suoi singoli componenti, o al Collegio dei Probiviri, o suoi singoli componenti.    
+Il preavviso di convocazione è di almeno 8 (otto) giorni per le votazioni aventi ad oggetto la modifica dello Statuto (ivi incluse fusioni, scissioni o trasformazioni), lo scioglimento dell’Associazione o la devoluzione del patrimonio, la sfiducia al Presidente, al Garante, al Comitato di Garanzia, o suoi singoli componenti, o al Collegio dei Probiviri, o suoi singoli componenti.  
 L’Assemblea è presieduta dal Presidente o, in caso di sua assenza o impedimento, dal Vicepresidente vicario, se nominato, o, in caso di sua assenza o impedimento, dal Presidente del Comitato di Garanzia; il Presidente dell’Assemblea nomina il segretario.  
 Il Presidente dell’Assemblea determina le modalità di svolgimento e di votazione dell’Assemblea, nel rispetto del presente Statuto e dei Regolamenti.  
 In caso di Assemblea che si svolga in luogo fisico, è consentita la partecipazione all’Assemblea anche mediante audio-conferenza e/o mediante teleconferenza, a condizione che tutti i partecipanti possano essere identificati, che venga adeguatamente conservata agli atti dell’adunanza la prova di tale identificazione e che sia consentito a ciascuno di essi di seguire la discussione e di intervenire in tempo reale alla trattazione degli argomenti affrontati.  
@@ -590,6 +588,7 @@ j) In entrambi i casi è riservata al Garante e/o al Presidente la facoltà di r
 k) Nell’ipotesi di cui alla lettera i), primo periodo, che precede, qualora il Regolamento consenta al capogruppo del gruppo parlamentare e/o consiliare del quale l’iscritto espulso fa parte di allontanare il medesimo, il mancato allontanamento costituisce comportamento passibile di essere sanzionato con l’esclusione del capogruppo stesso.
 
 l) Costituiscono gravi violazioni suscettibili di determinare l’espulsione dal Gruppo Parlamentare e/o Consiliare, tra l’altro:
+
 - reiterate ed ingiustificate assenze dai lavori dell’assemblea elettiva di riferimento e del Gruppo;
 - reiterate violazioni dello Statuto del gruppo;
 - mancato rispetto delle decisioni assunte dall’Assemblea degli Iscritti con le

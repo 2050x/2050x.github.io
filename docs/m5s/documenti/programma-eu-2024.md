@@ -32,7 +32,7 @@ La pace, la prevenzione dei conflitti e il rafforzamento della sicurezza interna
 
 ### 1.1 UNA CONFERENZA DI PACE PER FERMARE LA GUERRA IN UCRAINA
 
-La guerra in Ucraina va avanti da oltre due anni. Fin da subito abbiamo condannato l’invasione di Putin. Al popolo ucraino va tutto il nostro supporto, ma adesso diciamo basta all’invio di nuove armi e perseguiamo in tutti i modi la pace. L’Unione europea deve tornare protagonista nello scenario internazionale promuovendo incisive azioni diplomatiche volte all’immediato cessate il fuoco e all’avvio di negoziati per il raggiungimento di una soluzione politica, giusta, equilibrata, duratura, adoperandosi da subito per una Conferenza di pace da tenersi sotto l’egida delle Nazioni Unite. All’Europa serve un Commissario per la pace. ### 
+La guerra in Ucraina va avanti da oltre due anni. Fin da subito abbiamo condannato l’invasione di Putin. Al popolo ucraino va tutto il nostro supporto, ma adesso diciamo basta all’invio di nuove armi e perseguiamo in tutti i modi la pace. L’Unione europea deve tornare protagonista nello scenario internazionale promuovendo incisive azioni diplomatiche volte all’immediato cessate il fuoco e all’avvio di negoziati per il raggiungimento di una soluzione politica, giusta, equilibrata, duratura, adoperandosi da subito per una Conferenza di pace da tenersi sotto l’egida delle Nazioni Unite. All’Europa serve un Commissario per la pace.
 
 ### 1.2 DUE STATI E DUE POPOLI IN MEDIO ORIENTE
 
@@ -642,7 +642,8 @@ La strategia dell’UE sulla biodiversità per il 2030, comprende diverse azioni
 ### 13.7 LA CARNE COLTIVATA PER UN’ALIMENTAZIONE SANA E SOSTENIBILE
 
 Il sistema alimentare attuale è insostenibile, è basato su un consumo crescente di carne e derivati animali che ha gravi impatti sull’ambiente, sul clima, sulla salute e sul benessere degli animali. Oltre 630 milioni di animali terrestri e miliardi di animali acquatici vengono uccisi ogni anno solo in Italia. Le emissioni di CO2 sono significative e contribuiscono al cambiamento climatico. C’è urgente necessità di ridurre le emissioni e di sviluppare alternative sostenibili alla carne e agli altri prodotti animali per soddisfare le richieste di un mercato sempre più “animal free”. Tra le soluzioni emergenti vi è quella della carne coltivata, considerata da ricercatori e aziende come una possibile risposta all’insostenibilità del sistema alimentare attuale. Il Movimento 5 Stelle si batte contro l’assurdo e propagandistico divieto di produzione e vendita di carne coltivata, che si è esteso ideologicamente al divieto di denominazioni “meet-sounding” per prodotti a base vegetale, come le cotolette di soia o le polpette di melanzane, divieto quest’ultimo ancora più irragionevole visto che ha colpito proprio quei produttori agricoli che gli ideatori del divieto dichiaravano di voler tutelare. Siamo a favore della ricerca finalizzata a un’alimentazione sana e sostenibile che tenga in conto l’eliminazione della sofferenza animale. Vogliamo favorire lo sviluppo delle tecnologie che consentano produzione di cibo sano che riduca le emissioni di CO2, il consumo di suolo e di acqua e l’utilizzo degli allevamenti intensivi.  
-13.8 ISTITUZIONI EUROPEE
+
+### 13.8 ISTITUZIONI EUROPEE
 
 Proponiamo che, con riferimento all’organizzazione interna delle commissioni del Parlamento europeo, il tema del benessere animale sia di competenza della commissione salute e sicurezza alimentare. E se ne tenga conto, analogamente, per le attribuzioni delle competenze dei commissari europei con una delega specifica.  
 
